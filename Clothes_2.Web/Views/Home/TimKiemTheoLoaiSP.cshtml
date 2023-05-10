@@ -1,0 +1,121 @@
+﻿@model IEnumerable<Clothes_2.Web.Models.SanPham>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+<link href="~/css/timkiemtholoaisp.css" rel="stylesheet" />
+<div id="body">
+    <div id="Boloctimkiem">
+        <div id="noiBan">
+            <p>Nơi bán</p>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Hà Nội</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>TP.Hồ Chí Minh</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Thái Nguyên</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Vĩnh Phúc</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Tiền Giang</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Đồng Nai</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Cần Thơ</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Đông Nai</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Hải Phòng</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Phú Thọ</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Thanh Hóa</span>
+            </div>
+            <div class="noiBan_diadiem">
+                <input type="checkbox" name="" id="">
+                <span>Thái Bình</span>
+            </div>
+        </div>
+        <hr>
+        <div id="Donvivanchuyen">
+            <p>Đơn vị vận chuyển</p>
+            <div class="Donvivanchuyen_donvi">
+                <input type="checkbox" name="" id="">
+                <span>Hỏa Tốc</span>
+            </div>
+            <div class="Donvivanchuyen_donvi">
+                <input type="checkbox" name="" id="">
+                <span>Nhanh</span>
+            </div>
+            <div class="Donvivanchuyen_donvi">
+                <input type="checkbox" name="" id="">
+                <span>Tiết kiệm</span>
+            </div>
+        </div>
+
+        <div id="Gia">
+            <p>Khoản giá</p>
+            <div id="Khoan_gia">
+                <input type="text" name="" id="Gia_min" class="text_gia" placeholder="  Từ">
+                <div class="icon-range"></div>
+                <input type="text" name="" id="Gia_max" class="text_gia" placeholder="  Đến">
+            </div>
+            <button id="btn-gia">Áp dụng</button>
+        </div>
+        <div id="tinhTrang">
+            <div class="">
+                <input type="checkbox" name="" id="">
+                <span>Đã sử dụng</span>
+            </div>
+            <div class="">
+                <input type="checkbox" name="" id="">
+                <span>Chưa sử dụng</span>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div id="Sapxep">
+            <p>Sắp xếp theo:   </p>
+            <button>Liên quan</button>
+            <button>Mới nhất</button>
+            <button>Bán chạy</button>
+        </div>
+        <div id="DanhSach_SP">
+            @foreach(var item in Model){
+                <a asp-action="Details" asp-route-id="@item.Id">
+                <div class="card-SP">
+                    <img src="~/img/imgSanPham/@item.image" alt="" class="img-SP">
+                    <hr>
+                    <div class="content-SP">
+                        <div class="card-Ten-SP">
+                            @item.TenSanPham
+                        </div>
+                            <p class="SP-giatien">@item.Gia.ToString("C0",System.Globalization.CultureInfo.GetCultureInfo("vi-VN"))</p>
+                    </div>
+                </div>
+            </a>
+            }
+        </div>
+    </div>
+</div>

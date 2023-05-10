@@ -1,0 +1,121 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@model Clothes_2.Web.Models.SanPham
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout3.cshtml";
+}
+<link href="~/css/chitietsp.css" rel="stylesheet" />
+<script src="~/js/chitietsp.js"></script>
+
+@*<h1>Details</h1>
+
+
+<div>
+    <h4>SanPham</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenSP)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenSP)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Gia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Gia)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>*@
+<div id="Thongtin-embrace-SP">
+    <div id="img-SP" style="border: 1px solid black;">
+        <img src="~/img/imgSanPham/@Model.image" alt="">
+    </div>
+    <div id="thongtin">
+        <h3>@Html.DisplayFor(model => model.TenSanPham)</h3>
+        <div id="danhgia">
+            <p>đánh giá: </p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+            </svg>
+        </div>
+
+        <p class="gia-SP">@Html.DisplayFor(model => model.Gia) ₫ </p>
+
+        <form asp-action="addCookie" id="form-muahang">
+            <div id="size">
+                <p class="note">size</p>
+                <input type="radio" name="size" class="rad" value="M" required>M
+                <input type="radio" name="size" class="rad" style="margin-left: 10px;" value="L"> L
+                <input type="radio" name="size" class="rad" style="margin-left: 10px;" value="XL"> XL
+
+            </div>
+            <div id="SoLuong">
+                <p class="note">số lượng</p>
+                <input type="number" value="1" min="1" id="SL" name="SoLuong">
+            </div>
+            <div id="idSanpham">
+                <p>Mã sản phẩm: </p>
+				<input type="text" name="IdSanPham" value="@Html.DisplayFor(Model=>Model.Id)" readonly />
+			</div>
+            <div id="buy">
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <div class="form-group">
+                    <img src="~/icon/cart-plus-solid.svg" alt="">
+                    <input type="submit" value="Thêm vào giỏ hàng" class="" />
+                </div>
+                    <button id="mua-ngay">
+                        <a asp-route-id="@Model.Id" asp-route-size="" asp-action="Create" asp-controller="ChiTietHoaDon">Mua ngay</a>
+                    </button>
+            }
+            else
+            {
+                <a class="buy" id="user-btn" asp-area="Identity" asp-page="/Account/Login">Đăng nhập để mua</a>
+            }
+            </div>
+        </form>
+    </div>
+</div>
+
+<div id="thongtin-SP-detail">
+    <h1>Chi tiết sản phẩm</h1>
+    <div class="detail">
+        <p class="title">Danh mục</p>
+        
+        <spam class="info">@Html.DisplayFor(model=>model.LoaiSanPham.TenLoaiSanPham)</spam>
+    </div>
+    <div class="detail">
+        <p class="title">Thương hiệu</p>
+        <spam class="info">@Html.DisplayFor(model=>model.ThuongHieu)</spam>
+    </div>
+    <div class="detail">
+        <p class="title">Xuất sứ</p>
+        <spam class="info">@Html.DisplayFor(model=>model.XuatSu)</spam>
+    </div>
+    <div class="detail">
+        <p class="title">Chất liệu</p>
+        <spam class="info">@Html.DisplayFor(model=>model.ChatLieu)</spam>
+    </div>
+
+</div>

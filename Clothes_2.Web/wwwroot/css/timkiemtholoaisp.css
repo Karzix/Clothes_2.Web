@@ -1,0 +1,111 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+#body {
+    margin-top: 75px;
+    background-color: #f5f5f5;
+}
+
+#Khoan_gia {
+    display: flex;
+}
+
+.icon-range {
+    flex: 1;
+    height: 1px;
+    background: #bdbdbd;
+    margin: 0 0.625rem;
+    margin-top: 18.5px;
+}
+
+.text_gia {
+    width: 78px;
+    height: 38px;
+}
+
+.card-SP {
+    position: relative;
+    min-width: 190px;
+    width: 310px;
+    height: 430px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: #fff;
+}
+
+.img-SP {
+    width: 100%;
+    height: 70%;
+}
+
+.content-SP {
+    padding: 5px;
+}
+
+.SP-giatien {
+    color: red;
+}
+
+#body {
+    display: flex;
+    padding: 10%;
+    padding-right: 0;
+}
+
+#Boloctimkiem {
+    padding: 10px;
+    padding-top: 30px;
+    width: 25%;
+}
+
+#DanhSach_SP {
+    flex: 8;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+#Khoan_gia {
+    max-width: 180px;
+}
+
+#btn-gia {
+    width: 100%;
+    max-width: 180px;
+    margin-top: 10px;
+    background-color: #000;
+    color: #fff;
+    height: 35px;
+}
+
+#Sapxep {
+    width: 100%;
+    background-color: #ededed;
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+}
+
+    #Sapxep p {
+        display: inline-block;
+        margin: 0;
+    }
+
+    #Sapxep button {
+        padding: 0 10px;
+        height: 40px;
+    }
+
+        #Sapxep button:hover {
+            background-color: rgb(123, 107, 107);
+        }

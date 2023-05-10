@@ -1,0 +1,220 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+}
+
+:root {
+    --main-color: #FFB90F;
+    --black: #13131a;
+    --bg: #010103;
+    --border: .10px soid rgba(255, 255, 255, .3);
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#header {
+    background: var(--bg);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 5%;
+    border-bottom: var(--border);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    width: 100%;
+    height: 75px;
+}
+
+.navbar {
+    list-style-type: none;
+    padding: 0 !important;
+    height: 75px;
+    margin: 0;
+}
+
+#header .navbar a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#header .navbar li {
+    width: 120px;
+    margin: 0 10px;
+    font-size: 23px;
+    line-height: 74.55px;
+    color: #fff;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+#header .logo {
+    display: inline-block;
+    width: 125px;
+}
+
+    #header .logo img {
+        width: 100%;
+        height: 100%;
+    }
+
+#header .navbar a:hover, #header .navbar li:hover {
+    color: var(--main-color);
+}
+
+    #header .navbar li:hover > div {
+        display: block;
+    }
+
+#header .icon div {
+    cursor: pointer;
+    font-size: 23px;
+    margin-left: 20px;
+    color: #fff;
+}
+
+    #header .icon div:hover {
+        color: var(--main-color);
+    }
+
+.item-nav {
+    position: relative;
+}
+
+.sub-item-nav {
+    position: absolute;
+    width: 180%;
+    top: 75px;
+    left: 0;
+    display: none;
+}
+
+    .sub-item-nav ul {
+        width: 100%;
+        padding: 0;
+        list-style-type: none;
+        background-color: #fff;
+    }
+
+        .sub-item-nav ul li {
+            color: #fff;
+            position: relative;
+            background-color: #000;
+            width: 100% !important;
+            margin: 0 !important;
+        }
+
+.sub-nav-lv2 {
+    display: none;
+    padding: 0;
+    position: absolute;
+    left: 100%;
+    top: 0 !important;
+}
+
+    .sub-nav-lv2 li {
+        background-color: #000;
+        color: #fff;
+    }
+
+.sub-item-nav ul li:hover {
+    color: var(--main-color);
+}
+
+    .sub-item-nav ul li:hover > ul {
+        display: block;
+    }
+
+#header .search-form {
+    position: absolute;
+    top: 115%;
+    right: 7%;
+    background: #fff;
+    align-items: center;
+    width: 200px;
+    height: 20px;
+    transform: scaleY(0);
+    transform-origin: top;
+}
+
+    #header .search-form label {
+        cursor: pointer;
+        font-size: 23px;
+        color: var(--black);
+    }
+
+    #header .search-form input {
+        height: 213%;
+        width: 196%;
+        font-size: 23px;
+        color: var(--black);
+        text-transform: none;
+        padding: 10px;
+        margin-left: -161px;
+    }
+
+#footer {
+    width: 100%;
+    background: black;
+    height: 322px;
+    margin-top: 338px;
+    padding: 0px 63px;
+    padding-top: 57px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+    #footer .box {
+        width: 250px;
+        color: #fff;
+    }
+
+        #footer .box .quick-menu {
+            margin-top: 40px;
+        }
+
+            #footer .box .quick-menu .item {
+                margin-left: -36px;
+            }
+        /* #footer .box .quick-menu .item a{
+   color:#fff;
+   text-decoration: none;
+} */
+        /* #footer .box form input {
+    width: 294px;
+    height: 42px;
+    background: transparent;
+    padding-left: 20px;
+    color: #fff; */
+        /* }
+#footer .box form button {
+    background: #362f2f;
+    box-shadow: 5px 5px 4px rgba(0,0,0.25);
+    width: 163px;
+    height: 38px;
+    margin-top: 29px;
+    
+    
+} */
+        #footer .box .logo img {
+            width: 100%;
+            height: 90%;
+            margin-top: -52px;
+        }
+
+        #footer .box .quick-menu .item p {
+            /* margin-top: -20px; */
+        }

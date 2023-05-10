@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <link rel="stylesheet" href="./css/ChitietSP.css">
+	<link href="~/css/layout3.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header id="header-layout2">
+        <img src="~/icon/arrow-left-solid.svg" alt="" id="history-back" onclick="backHistory()">
+        <h3>Chi tiết sản phẩm</h3>
+    </header>
+   @RenderBody();
+
+
+    <footer id="footer">
+        <!-- code footer -->
+        <div class="box">
+            <div class="logo">
+                <img src="https://icolor.vn/wp-content/uploads/2021/03/m%E1%BA%ABu-logo-%C4%91en-tr%E1%BA%AFng-%C4%91%E1%BA%B9p-icolor-phanblogs-14.jpg"
+                     alt="">
+                <p>
+                    Cảm ơn các bạn đã đồng hành cùng chúng tôi<br>
+                    Chúng tôi ccam kết sẽ đem đến cho các bạn những trải nghiệm tốt nhất
+                </p>
+            </div>
+
+        </div>
+        <div class="box">
+            <h3>
+                Địa chỉ
+            </h3>
+            <ul class="quick-menu">
+                <div class="item">
+                    <p> Số 20 Nam Kì Khỏi Nghĩa, Mỹ Tho_Tiền Giang</p>
+                    <p> Số 62 Hùng Vương, Mỹ Tho_Tiền GIang</p>
+                    <p> Số 26 Trần Hưng Đạo, TP.Bến Tre</p>
+                </div>
+            </ul>
+        </div>
+
+        <div class="box">
+            <h3>Liên hệ</h3>
+            Điên thoại<br>
+            0964189460
+            <br>
+            Email:duyen021101017@tgu.edu.vn
+
+
+        </div>
+    </footer>
+
+    <script src="./js/ChitietSP.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+﻿@model List<Clothes_2.Web.Models.GioHang>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+
+	Layout = "~/Views/Shared/_LayoutNull.cshtml";
+}
+
+	<ul>
+	@foreach(var item in Model)
+	{
+        @if (item.SanPham == null)
+			{
+				continue;
+			}
+		<li>
+			
+
+				@item.SanPham.image
+
+
+			<br>
+			giá/1 sản phẩm: @item.SanPham.Gia <br>
+			số lượng: @item.SoLuong<br>
+			Size: @item.size<br>
+			
+		</li>
+	}
+</ul>
+
+<a asp-action="Create" asp-controller="ChiTietHoaDon">
+	đặt hàng
+</a>
