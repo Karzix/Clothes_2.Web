@@ -153,7 +153,12 @@ namespace Clothes_2.Web.Controllers
 				}
                 listsp.Add(gh);
             }
-
+            int tongtien = 0;
+            foreach(var item in listsp)
+            {
+                tongtien += item.SoLuong * item.SanPham.Gia;
+            }
+            ViewBag.TongTien=tongtien;
             return View("GioHang", listsp);
         }
         public IActionResult GioiThieu()

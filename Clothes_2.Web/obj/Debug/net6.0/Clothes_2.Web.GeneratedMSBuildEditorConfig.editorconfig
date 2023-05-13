@@ -48,22 +48,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Clothes_2.Web/Clothes_2.Web/Views/ChiTietHoaDon/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldEhvYURvblxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/GitHub/Clothes_2.Web/Clothes_2.Web/Views/ChiTietHoaDon/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldEhvYURvblxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/GitHub/Clothes_2.Web/Clothes_2.Web/Views/ChiTietHoaDon/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldEhvYURvblxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/GitHub/Clothes_2.Web/Clothes_2.Web/Views/ChiTietHoaDon/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldEhvYURvblxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/GitHub/Clothes_2.Web/Clothes_2.Web/Views/ChiTietHoaDon/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldEhvYURvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -76,20 +60,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaW9IYW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Clothes_2.Web/Clothes_2.Web/Views/Home/GioHangError.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaW9IYW5nRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/GitHub/Clothes_2.Web/Clothes_2.Web/Views/Home/GioiThieu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaW9pVGhpZXUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHub/Clothes_2.Web/Clothes_2.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/GitHub/Clothes_2.Web/Clothes_2.Web/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHub/Clothes_2.Web/Clothes_2.Web/Views/Home/TimKiemTheoLoaiSP.cshtml]

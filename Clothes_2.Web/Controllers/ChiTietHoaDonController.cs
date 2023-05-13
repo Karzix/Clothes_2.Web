@@ -29,66 +29,48 @@ namespace Clothes_2.Web.Controllers
                           Problem("Entity set 'ApplicationDbContext.ChiTietHoaDon'  is null.");
         }
 
-        // GET: ChiTietHoaDon/Details/5
-        public async Task<IActionResult> Details(Guid? id)
-        {
-            if (id == null || _context.ChiTietHoaDon == null)
-            {
-                return NotFound();
-            }
+		//      // GET: ChiTietHoaDon/Create
+		//      public IActionResult Create()
+		//      {
+		//          string danhSachSPTrongGioHang;
+		//          string key = User.FindFirstValue(ClaimTypes.NameIdentifier);
+		//          danhSachSPTrongGioHang = Request.Cookies[key];
 
-            var chiTietHoaDon = await _context.ChiTietHoaDon
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (chiTietHoaDon == null)
-            {
-                return NotFound();
-            }
+		//          int thanhtien = 0;
+		//          GioHang gh;
+		//          List<GioHang> listsp = new List<GioHang>();
+		//          try
+		//          {
+		//              listsp = JsonConvert.DeserializeObject<List<GioHang>>(danhSachSPTrongGioHang);
+		//          }
+		//          catch (Exception ex)
+		//          {
+		//              try
+		//              {
+		//                  gh = JsonConvert.DeserializeObject<GioHang>(danhSachSPTrongGioHang);
+		//              }
+		//              catch
+		//              {
+		//                  return View("GioHangError");
+		//              }
+		//              listsp.Add(gh);
+		//          }
+		//          foreach(var item in listsp)
+		//          {
+		//              thanhtien += item.SoLuong * item.SanPham.Gia;
+		//          }
 
-            return View(chiTietHoaDon);
-        }
+		//          ChiTietHoaDon chiTietHoaDon = new ChiTietHoaDon();
+		//          chiTietHoaDon.GioHangs = listsp;
+		//          chiTietHoaDon.ThanhTien = thanhtien;
+		//          return View(chiTietHoaDon);
+		//      }
 
-        // GET: ChiTietHoaDon/Create
-        public IActionResult Create(int SoLuong, string Size, Guid id)
-        {
-            string danhSachSPTrongGioHang;
-            string key = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            danhSachSPTrongGioHang = Request.Cookies[key];
-
-            int thanhtien = 0;
-            GioHang gh;
-            List<GioHang> listsp = new List<GioHang>();
-            try
-            {
-                listsp = JsonConvert.DeserializeObject<List<GioHang>>(danhSachSPTrongGioHang);
-            }
-            catch (Exception ex)
-            {
-                try
-                {
-                    gh = JsonConvert.DeserializeObject<GioHang>(danhSachSPTrongGioHang);
-                }
-                catch
-                {
-                    return View("GioHangError");
-                }
-                listsp.Add(gh);
-            }
-            foreach(var item in listsp)
-            {
-                thanhtien += item.SoLuong * item.SanPham.Gia;
-            }
-
-            ChiTietHoaDon chiTietHoaDon = new ChiTietHoaDon();
-            chiTietHoaDon.GioHangs = listsp;
-            chiTietHoaDon.ThanhTien = thanhtien;
-            return View(chiTietHoaDon);
-        }
-
-        // POST: ChiTietHoaDon/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
+		// POST: ChiTietHoaDon/Create
+		// To protect from overposting attacks, enable the specific properties you want to bind to.
+		// For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+		[HttpPost]
+		[ValidateAntiForgeryToken]
 		public async Task<IActionResult> Create(string SoDienThoai, string DiaChi, string TenKhachHang)
 		{
 			string key = User.FindFirstValue(ClaimTypes.NameIdentifier);
@@ -112,6 +94,7 @@ namespace Clothes_2.Web.Controllers
 				}
 				listsp.Add(gh);
 			}
+
 			var danhSachIdGioHang = "";
 			foreach (var item in listsp)
 			{
@@ -119,13 +102,13 @@ namespace Clothes_2.Web.Controllers
 				thanhtien += item.SoLuong * item.SanPham.Gia;
 				danhSachIdGioHang += item.SanPhamId + " SoLuong: " + item.SoLuong + " Size: " + item.size;
 			}
-            foreach(var item in listsp)
-            {
-                var updateSLM = await _context.SanPham.Where(sp=>sp.Id==item.SanPhamId).FirstOrDefaultAsync();
-                updateSLM.SoLuotMua += item.SoLuong;
-                _context.Update(updateSLM);
-                await _context.SaveChangesAsync();
-            }
+			foreach (var item in listsp)
+			{
+				var updateSLM = await _context.SanPham.Where(sp => sp.Id == item.SanPhamId).FirstOrDefaultAsync();
+				updateSLM.SoLuotMua += item.SoLuong;
+				_context.Update(updateSLM);
+				await _context.SaveChangesAsync();
+			}
 			ChiTietHoaDon chiTietHoaDon = new ChiTietHoaDon
 			{
 				SoDienThoai = SoDienThoai,
@@ -133,7 +116,7 @@ namespace Clothes_2.Web.Controllers
 				TenKhachHang = TenKhachHang,
 				listGioHang = danhSachIdGioHang,
 				ThanhTien = thanhtien,
-                NgayXuatHoaDon = DateTime.Now
+				NgayXuatHoaDon = DateTime.Now
 			};
 			if (ModelState.IsValid)
 			{
@@ -150,95 +133,8 @@ namespace Clothes_2.Web.Controllers
 			return RedirectToAction("Index", "Home", _context.SanPham);
 		}
 
-		// GET: ChiTietHoaDon/Edit/5
-		public async Task<IActionResult> Edit(Guid? id)
-        {
-            if (id == null || _context.ChiTietHoaDon == null)
-            {
-                return NotFound();
-            }
 
-            var chiTietHoaDon = await _context.ChiTietHoaDon.FindAsync(id);
-            if (chiTietHoaDon == null)
-            {
-                return NotFound();
-            }
-            return View(chiTietHoaDon);
-        }
-
-        // POST: ChiTietHoaDon/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("Id,TenKhachHang,SoDienThoai,DiaChi,ThanhTien,NgayXuatHoaDon")] ChiTietHoaDon chiTietHoaDon)
-        {
-            if (id != chiTietHoaDon.Id)
-            {
-                return NotFound();
-            }
-
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(chiTietHoaDon);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!ChiTietHoaDonExists(chiTietHoaDon.Id))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            return View(chiTietHoaDon);
-        }
-
-        // GET: ChiTietHoaDon/Delete/5
-        public async Task<IActionResult> Delete(Guid? id)
-        {
-            if (id == null || _context.ChiTietHoaDon == null)
-            {
-                return NotFound();
-            }
-
-            var chiTietHoaDon = await _context.ChiTietHoaDon
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (chiTietHoaDon == null)
-            {
-                return NotFound();
-            }
-
-            return View(chiTietHoaDon);
-        }
-
-        // POST: ChiTietHoaDon/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(Guid id)
-        {
-            if (_context.ChiTietHoaDon == null)
-            {
-                return Problem("Entity set 'ApplicationDbContext.ChiTietHoaDon'  is null.");
-            }
-            var chiTietHoaDon = await _context.ChiTietHoaDon.FindAsync(id);
-            if (chiTietHoaDon != null)
-            {
-                _context.ChiTietHoaDon.Remove(chiTietHoaDon);
-            }
-            
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
-
-        private bool ChiTietHoaDonExists(Guid id)
+		private bool ChiTietHoaDonExists(Guid id)
         {
           return (_context.ChiTietHoaDon?.Any(e => e.Id == id)).GetValueOrDefault();
         }

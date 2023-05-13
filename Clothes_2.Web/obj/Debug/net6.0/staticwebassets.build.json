@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9CdOZGkqJWmI2POLx6ZR6l2dtuw9kR2XAQdkCW/2qas=",
+  "Hash": "d+Gr30FdNaP67Uvx807J9yEAft9ogYiN6pf0BARR7aE=",
   "Source": "Clothes_2.Web",
   "BasePath": "_content/Clothes_2.Web",
   "Mode": "Default",
@@ -1086,6 +1086,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\chitietSP.css"
+    },
+    {
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\giohang.css",
+      "SourceId": "Clothes_2.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "BasePath": "_content/Clothes_2.Web",
+      "RelativePath": "css/giohang.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\giohang.css"
     },
     {
       "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\gioithieu.css",

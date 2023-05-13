@@ -3,35 +3,115 @@
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
 @{
-
-	Layout = "~/Views/Shared/_LayoutNull.cshtml";
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_LayoutNull.cshtml";
 }
 
-	<ul>
-	@foreach(var item in Model)
-	{
-        @if (item.SanPham == null)
-			{
-				continue;
-			}
-		<li>
-			
+<!DOCTYPE html>
+<html lang="en">
 
-				@item.SanPham.image
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <link href="~/css/giohang.css" rel="stylesheet" />
+    <link href="~/css/layout.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header id="header-layout2">
+        <img src="~/icon/arrow-left-solid.svg" alt="" id="history-back" onclick="backHistory()">
+        <h3>Giỏ hàng của bạn</h3>
+    </header>
+    <div id="main">
+        <div id="sanpham">
+           
+            @foreach(var item in Model)
+            {
+                <div id="Thongtin-embrace-SP">
+                    <div id="img-SP" style="border: 1px solid black;">
+                        <img src="~/img/imgsanpham/@item.SanPham.image" alt="">
+                    </div>
+                    <div id="thongtin">
+                        <h3>@item.SanPham.TenSanPham</h3>
+                        <p class="gia-SP">Giá: @item.SanPham.Gia</p>
+                        <p class="size">Size: @item.size</p>
+                        <p class="SoLuong">Số lượng: @item.SoLuong</p>
+                        <a href="">delete</a>
+
+                    </div>
+                </div>
+            }
+            Tổng tiền: @ViewBag.TongTien
+        </div>
+
+        <div id="right">
+            <h1>Người mua/Nhận hàng</h1>
+            <form id="thongtinkhachhang" asp-action="Create" asp-controller="ChiTietHoaDon">
+                <!-- <div> -->
+                <label for="fname">Họ tên</label>
+                <input class="form-control" name="TenKhachHang" placeholder="Tên Người nhận" required />
+                <!-- </div> -->
+                <!-- <div> -->
+                <label for="sname">Điện thoại liên lạc</label>
+                <input class="form-control" name="SoDienThoai" placeholder="Số điẹn thoại" required />
+                <!-- </div> -->
+                <!-- <div> -->
+                <label for="validate">Địa chỉ nhận hàng</label>
+                <input class="form-control" name="DiaChi" placeholder="Địa chỉ" required />
+                <!-- </div> -->
+                <input type="submit" value="Xác Nhận Đặt Hàng" id="DatHang">
+
+            </form>
+        </div>
+    </div>
+
+    <footer id="footer">
+        <!-- code footer -->
+        <div class="box">
+            <div class="logo">
+                <img src="https://icolor.vn/wp-content/uploads/2021/03/m%E1%BA%ABu-logo-%C4%91en-tr%E1%BA%AFng-%C4%91%E1%BA%B9p-icolor-phanblogs-14.jpg"
+                     alt="">
+                <p>
+                    Cảm ơn các bạn đã đồng hành cùng chúng tôi<br>
+                    Chúng tôi ccam kết sẽ đem đến cho các bạn những trải nghiệm tốt nhất
+                </p>
+            </div>
+
+        </div>
+        <div class="box">
+            <h3>
+                Địa chỉ
+            </h3>
+            <ul class="quick-menu">
+                <div class="item">
+                    <p> Số 20 Nam Kì Khỏi Nghĩa, Mỹ Tho_Tiền Giang</p>
+                    <p> Số 62 Hùng Vương, Mỹ Tho_Tiền GIang</p>
+                    <p> Số 26 Trần Hưng Đạo, TP.Bến Tre</p>
+                </div>
+            </ul>
+        </div>
+
+        <div class="box">
+            <h3>Liên hệ</h3>
+            Điên thoại<br>
+            0964189460
+            <br>
+            Email:duyen021101017@tgu.edu.vn
 
 
-			<br>
-			giá/1 sản phẩm: @item.SanPham.Gia <br>
-			số lượng: @item.SoLuong<br>
-			Size: @item.size<br>
+        </div>
+    </footer>
 
-			<a asp-action="DeleteGioHang" asp-controller="Home" asp-route-id="@item.Id">Delete</a>
+    <script src="~/js/chitietsp.js"></script>
+</body>
 
-		</li>
-	}
-</ul>
+</html>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
 
-<a asp-action="Create" asp-controller="ChiTietHoaDon" >
-	đặt hàng
-</a>
-<a asp-action="Index" asp-controller="Home"> return </a>
