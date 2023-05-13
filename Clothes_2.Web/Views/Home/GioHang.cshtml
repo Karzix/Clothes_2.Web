@@ -24,11 +24,14 @@
 			giá/1 sản phẩm: @item.SanPham.Gia <br>
 			số lượng: @item.SoLuong<br>
 			Size: @item.size<br>
-			
+
+			<a asp-action="DeleteGioHang" asp-controller="Home" asp-route-id="@item.Id">Delete</a>
+
 		</li>
 	}
 </ul>
 
-<a asp-action="Create" asp-controller="ChiTietHoaDon">
+<a asp-action="Create" asp-controller="ChiTietHoaDon" >
 	đặt hàng
 </a>
+<a asp-action="Index" asp-controller="Home"> return </a>

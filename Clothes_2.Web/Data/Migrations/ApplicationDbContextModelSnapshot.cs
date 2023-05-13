@@ -51,6 +51,34 @@ namespace Clothes_2.Web.Data.Migrations
                     b.ToTable("ChiTietHoaDon");
                 });
 
+            modelBuilder.Entity("Clothes_2.Web.Models.GioHang", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("ChiTietHoaDonId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("SanPhamId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("SoLuong")
+                        .HasColumnType("int");
+
+                    b.Property<string>("size")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ChiTietHoaDonId");
+
+                    b.HasIndex("SanPhamId");
+
+                    b.ToTable("GioHang");
+                });
+
             modelBuilder.Entity("Clothes_2.Web.Models.LoaiSanPham", b =>
                 {
                     b.Property<Guid>("Id")
@@ -58,7 +86,6 @@ namespace Clothes_2.Web.Data.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("TenLoaiSanPham")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -80,6 +107,9 @@ namespace Clothes_2.Web.Data.Migrations
 
                     b.Property<Guid?>("LoaiSanPhamId")
                         .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("SoLuotMua")
+                        .HasColumnType("int");
 
                     b.Property<string>("TenSanPham")
                         .HasColumnType("nvarchar(max)");
@@ -302,6 +332,19 @@ namespace Clothes_2.Web.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("Clothes_2.Web.Models.GioHang", b =>
+                {
+                    b.HasOne("Clothes_2.Web.Models.ChiTietHoaDon", null)
+                        .WithMany("GioHangs")
+                        .HasForeignKey("ChiTietHoaDonId");
+
+                    b.HasOne("Clothes_2.Web.Models.SanPham", "SanPham")
+                        .WithMany()
+                        .HasForeignKey("SanPhamId");
+
+                    b.Navigation("SanPham");
+                });
+
             modelBuilder.Entity("Clothes_2.Web.Models.SanPham", b =>
                 {
                     b.HasOne("Clothes_2.Web.Models.LoaiSanPham", "LoaiSanPham")
@@ -360,6 +403,11 @@ namespace Clothes_2.Web.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Clothes_2.Web.Models.ChiTietHoaDon", b =>
+                {
+                    b.Navigation("GioHangs");
                 });
 #pragma warning restore 612, 618
         }

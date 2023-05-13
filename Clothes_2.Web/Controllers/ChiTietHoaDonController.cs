@@ -51,24 +51,9 @@ namespace Clothes_2.Web.Controllers
         public IActionResult Create(int SoLuong, string Size, Guid id)
         {
             string danhSachSPTrongGioHang;
+            string key = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            danhSachSPTrongGioHang = Request.Cookies[key];
 
-            if (id == null)
-            {
-                string key = User.FindFirstValue(ClaimTypes.NameIdentifier);
-                danhSachSPTrongGioHang = Request.Cookies[key];
-            }
-            else
-            {
-                GioHang gh2 = new GioHang
-                {
-                    Id = Guid.NewGuid(),
-                    size = Size,
-                    SanPhamId = id,
-                    SoLuong = SoLuong,
-                    SanPham = _context.SanPham.Where(sp => sp.Id == id).FirstOrDefault()
-                };
-                danhSachSPTrongGioHang = JsonConvert.SerializeObject(gh2);
-            }
             int thanhtien = 0;
             GioHang gh;
             List<GioHang> listsp = new List<GioHang>();
@@ -88,9 +73,14 @@ namespace Clothes_2.Web.Controllers
                 }
                 listsp.Add(gh);
             }
+            foreach(var item in listsp)
+            {
+                thanhtien += item.SoLuong * item.SanPham.Gia;
+            }
 
             ChiTietHoaDon chiTietHoaDon = new ChiTietHoaDon();
             chiTietHoaDon.GioHangs = listsp;
+            chiTietHoaDon.ThanhTien = thanhtien;
             return View(chiTietHoaDon);
         }
 
@@ -129,7 +119,13 @@ namespace Clothes_2.Web.Controllers
 				thanhtien += item.SoLuong * item.SanPham.Gia;
 				danhSachIdGioHang += item.SanPhamId + " SoLuong: " + item.SoLuong + " Size: " + item.size;
 			}
-
+            foreach(var item in listsp)
+            {
+                var updateSLM = await _context.SanPham.Where(sp=>sp.Id==item.SanPhamId).FirstOrDefaultAsync();
+                updateSLM.SoLuotMua += item.SoLuong;
+                _context.Update(updateSLM);
+                await _context.SaveChangesAsync();
+            }
 			ChiTietHoaDon chiTietHoaDon = new ChiTietHoaDon
 			{
 				SoDienThoai = SoDienThoai,

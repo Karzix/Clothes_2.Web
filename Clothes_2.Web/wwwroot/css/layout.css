@@ -120,31 +120,7 @@ html {
 .sub-item-nav ul li:hover>ul{
     display: block;
 }
-#header .search-form {
-    position: absolute;
-    top: 115%;
-    right: 7%;
-    background: #fff;
-    align-items: center;
-    width: 200px;
-    height: 20px;
-    transform: scaleY(0);
-    transform-origin: top;
-}
-#header .search-form label {
-    cursor: pointer;
-    font-size: 23px;
-    color: var(--black);
-}
-#header .search-form input {
-    height: 213%;
-    width: 196%;
-    font-size: 23px;
-    color: var(--black);
-    text-transform: none;
-    padding: 10px;
-    margin-left: -161px;
-}
+
 #footer {
     width: 100%;
     background: black;
@@ -196,5 +172,16 @@ html {
 #footer .box .quick-menu .item p {
     /* margin-top: -20px; */
 }
+#search-box{
+    margin:15px;
+}
+#search-text{
 
+
+}
+#search-submit {
+    margin-left: -5px;
+    width: 30px;
+    background-color: #fff;
+}
 

@@ -66,12 +66,12 @@
                 <a href="" class="" id="search-btn" asp-area="Identity" asp-page="/Account/Register">Register</a>
                 <a href="" class="" id="cart-btn">out</a>*@
                 <partial name="_Login2Partial" />
-            </div>
-            <div class="search-form">
-                <input type="search" id="search-box" placeholder="Tìm kiếm ở đây">
+                <form id="search-box" asp-action="TimKiemTheoLoaiSP" asp-controller="Home">
+                        <input type="text" id="search-text" placeholder="Tìm kiếm ở đây" name="search">
+                        <button type="submit" id="search-submit"><i class="fas fa-search"></i></button>
+                    </form>
 
             </div>
-            <div class="cart-"></div>
         </header>
 
         @RenderBody()

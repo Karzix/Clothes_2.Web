@@ -13,5 +13,6 @@ namespace Clothes_2.Web.Data
 		public DbSet<Clothes_2.Web.Models.LoaiSanPham>? LoaiSanPham { get; set; }
 		public DbSet<Clothes_2.Web.Models.SanPham>? SanPham { get; set; }
 		public DbSet<Clothes_2.Web.Models.ChiTietHoaDon>? ChiTietHoaDon { get; set; }
+		public DbSet<Clothes_2.Web.Models.GioHang>? GioHang { get; set; }
 	}
 }

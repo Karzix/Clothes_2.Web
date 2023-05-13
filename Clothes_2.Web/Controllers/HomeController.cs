@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using System.Drawing;
 using System.Security.Claims;
 using Clothes_2.Web.Data;
 using Clothes_2.Web.Models;
@@ -101,16 +102,24 @@ namespace Clothes_2.Web.Controllers
                         listsp.Remove(item);
                     }
                 }
-
-                GioHang themgiohang = new GioHang
+                var kiemtragiohang = listsp.Where(sp=>sp.SanPhamId == IdSanPham && sp.size==Size).FirstOrDefault();
+                if(kiemtragiohang == null)
                 {
-                    Id = Guid.NewGuid(),
-                    SoLuong = SoLuong,
-                    size = Size,
-                    SanPhamId = IdSanPham,
-                    SanPham = _context.SanPham.Where(sp => sp.Id == IdSanPham).FirstOrDefault()
-                };
-                listsp.Add(themgiohang);
+                    GioHang themgiohang = new GioHang
+                    {
+                        Id = Guid.NewGuid(),
+                        SoLuong = SoLuong,
+                        size = Size,
+                        SanPhamId = IdSanPham,
+                        SanPham = _context.SanPham.Where(sp => sp.Id == IdSanPham).FirstOrDefault()
+                    };
+                    listsp.Add(themgiohang);
+                }
+                else
+                {
+                    listsp.Where(sp => sp.SanPhamId == IdSanPham && sp.size == Size).FirstOrDefault().SoLuong += SoLuong;
+                }
+                
                 string updateGioHang = JsonConvert.SerializeObject(listsp);
                 CookieOptions updatecookie = new CookieOptions()
                 {
@@ -140,8 +149,8 @@ namespace Clothes_2.Web.Controllers
                 }
                 catch
                 {
-                    return View("GioHangError");
-                }
+                    return View("GioHang", listsp);
+				}
                 listsp.Add(gh);
             }
 
@@ -151,11 +160,55 @@ namespace Clothes_2.Web.Controllers
         {
             return View("GioiThieu");
         }
-        public async Task<IActionResult> TimKiemTheoLoaiSP(Guid id)
+        public async Task<IActionResult> TimKiemTheoLoaiSP(Guid? id, string search)
         {
-            var _application =await _context.SanPham.Where(sp=>sp.LoaiSanPhamId==id).ToListAsync();
+			var applicationDbContext = _context.SanPham.Include(s => s.LoaiSanPham).AsQueryable();
+            if(id!= null)
+            {
+                applicationDbContext= _context.SanPham.Where(sp=>sp.LoaiSanPhamId==id);
+            }
+			if (search != null)
+            {
+                applicationDbContext =  _context.SanPham.Where(sp => sp.TenSanPham.Contains(search));
+            }
+            
+            
 
-            return View("TimKiemTheoLoaiSP", _application);
+            return View("TimKiemTheoLoaiSP", applicationDbContext);
         }
-    }
+
+        public IActionResult DeleteGioHang(Guid id)
+        {
+			string key = User.FindFirstValue(ClaimTypes.NameIdentifier);
+			var readcookie = Request.Cookies[key];
+			List<GioHang> listsp = new List<GioHang>();
+			GioHang gh;
+			try
+			{
+				listsp = JsonConvert.DeserializeObject<List<GioHang>>(readcookie);
+			}
+			catch (Exception ex)
+			{
+				try
+				{
+					gh = JsonConvert.DeserializeObject<GioHang>(readcookie);
+				}
+				catch
+				{
+					return View("GioHangError");
+				}
+                listsp.Add(gh);
+			}
+            listsp.Remove(listsp.Where(sp=>sp.Id==id).FirstOrDefault());
+			string updateGioHang = JsonConvert.SerializeObject(listsp);
+			CookieOptions updatecookie = new CookieOptions()
+			{
+				Expires = DateTime.Now.AddDays(-1)
+			};
+			Response.Cookies.Append(key, updateGioHang, updatecookie);
+			return View("GioHang", listsp);
+
+		}
+
+	}
 }

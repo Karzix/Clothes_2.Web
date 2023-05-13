@@ -20,9 +20,15 @@ namespace Clothes_2.Web.Controllers
         }
 
         // GET: SanPham
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string pageNumber)
         {
+            //var PageNumber = int.Parse(pageNumber);
+            //ViewBag.Page = pageNumber;
+            //var pageSize = 1;
             var applicationDbContext = _context.SanPham.Include(s => s.LoaiSanPham);
+            //var query = applicationDbContext.Skip(PageNumber*pageSize).Take(pageSize);
+            //ViewBag.MaxPage= applicationDbContext.Count()/pageSize;
+            //ViewBag.Page = pageNumber;
             return View(await applicationDbContext.ToListAsync());
         }
 

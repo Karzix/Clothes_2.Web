@@ -10,6 +10,7 @@
 <p>
     <a asp-action="Create">Tạo mới sản phẩm</a>
 </p>
+@ViewBag.Page
 <table class="table">
     <thead>
         <tr>
@@ -70,3 +71,17 @@
 }
     </tbody>
 </table>
+@*@if (ViewBag.Page > 0)
+{
+    <a asp-controller="SanPham" asp-action="Index" asp-route-pageNumber="@ViewBag-1"
+       class="btn btn-default">
+        &laquo; Prev
+    </a>
+}
+@if (ViewBag.Page < ViewBag.MaxPage)
+{
+    <a sp-controller="SanPham" asp-action="Index" asp-route-pageNumber="@ViewBag+1"
+       class="btn btn-default">
+        Next &raquo;
+    </a>
+}*@
