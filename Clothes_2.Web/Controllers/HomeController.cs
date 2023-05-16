@@ -176,9 +176,6 @@ namespace Clothes_2.Web.Controllers
             {
                 applicationDbContext =  _context.SanPham.Where(sp => sp.TenSanPham.Contains(search));
             }
-            
-            
-
             return View("TimKiemTheoLoaiSP", applicationDbContext);
         }
 
@@ -214,6 +211,14 @@ namespace Clothes_2.Web.Controllers
 			return View("GioHang", listsp);
 
 		}
+        public IActionResult Contact()
+        {
+            return View("Contact");
+        }
+        public IActionResult Blog()
+        {
+            return View("Blog");
+        }
 
-	}
+    }
 }

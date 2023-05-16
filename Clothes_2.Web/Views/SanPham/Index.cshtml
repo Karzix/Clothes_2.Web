@@ -4,7 +4,7 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-
+<link href="~/css/phantrang.css" rel="stylesheet" />
 <h1>Quản lý sản phẩm</h1>
 <a asp-action="Index" asp-controller="LoaiSanPham">chuyển hướng đến: Quản lý loại sản phẩm</a>
 <p>
@@ -85,3 +85,14 @@
         Next &raquo;
     </a>
 }*@
+<div id="PhanTrang" style="display:flex; justify-content:center;">
+@if (ViewBag.Page > 0)
+{
+    @Html.ActionLink("<<", "Index", new { pageNumber = ViewBag.Page - 1 }, new{@class="chuyentrang"})
+}
+<p class="tranghientai">@ViewBag.TrangHienTai</p>
+@if (ViewBag.Page < ViewBag.MaxPage)
+{
+        @Html.ActionLink(">>", "Index", new { pageNumber = ViewBag.Page + 1 },new{@class="chuyentrang"})
+}
+</div>

@@ -25,7 +25,7 @@
                      alt="">
             </a>
             <ul class="navbar">
-                <li><a href="#home">Trang chủ</a></li>
+                <li><a asp-action="Index">Trang chủ</a></li>
                 <li><a asp-controller="Home" asp-action="GioiThieu">Giới thiệu</a></li>
                 <li>
                     Sản phẩm
@@ -34,30 +34,30 @@
                             <li class="Loai-SP-specifica">
                                 Quần
                                 <ul class="sub-nav-lv2">
-                                    <li><a asp-controller="Home" asp-action="TimKiemTheoLoaiSP" asp-route-id="188135AC-63C2-4700-B79B-5E3930F3B41A">Quần sort</a></li>
-                                    <li>Quần Jean</li>
-                                    <li>Quần tây</li>
+                                    <li><a asp-controller="Home" asp-action="TimKiemTheoLoaiSP" asp-route-id="C11F0FA8-3FE7-4760-AA81-C853AB1617A7">Quần sort</a></li>
+                                    <li><a asp-controller="Home" asp-action="TimKiemTheoLoaiSP" asp-route-id="D807C02C-11F5-4B24-873C-F300FB9725EF">Quần jean</a></li>
+                                    <li><a asp-controller="Home" asp-action="TimKiemTheoLoaiSP" asp-route-id="65E99F44-C2B6-4C60-8E7F-B931B5BB5C94">Quần tây</a></li>
                                 </ul>
                             </li>
                             <li class="Loai-SP-specifica">
                                 Áo
                                 <ul class="sub-nav-lv2">
-                                    <li>Áo sơ mi</li>
-                                    <li>Áo polo</li>
-                                    <li>Áo thun</li>
+                                    <li><a asp-controller="Home" asp-action="TimKiemTheoLoaiSP" asp-route-id="8BB23447-E939-4134-A205-6DB8B21B07C6">Áo sơ mi</a></li>
+                                    <li><a asp-controller="Home" asp-action="TimKiemTheoLoaiSP" asp-route-id="57FB9C95-CA3D-4149-BD63-B076AFED8B59">Áo polo</a></li>
+                                    <li><a asp-controller="Home" asp-action="TimKiemTheoLoaiSP" asp-route-id="BB1543D9-A36B-46C6-85A2-1BC41C9D9AED">Áo thun</a></li>
                                 </ul>
                             </li>
                             <li class="Loai-SP-specifica">
-                                Phụ kiện
+                                Khác
                                 <ul class="sub-nav-lv2">
-                                    <li>Đồng hồ</li>
+                                    <li><a asp-controller="Home" asp-action="TimKiemTheoLoaiSP" asp-route-id="2B1B9A37-7947-4CB7-9739-C0781D017CD1">Giày</a></li>
                                 </ul>
                             </li>
                         </ul>
                     </div>
                 </li>
-                <li><a href="#Contact">Chính sách</a></li>
-                <li><a href="blog.html">Blog</a></li>
+                <li><a asp-action="Contact">Liên hệ</a></li>
+                <li><a asp-action="Blog">Blog</a></li>
 
             </ul>
 

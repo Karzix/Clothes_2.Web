@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\Clothes_2.Web.bundle.scp.css"
     },
     {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\blog.css",
+      "PackagePath": "staticwebassets\\css\\blog.css"
+    },
+    {
       "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\chitietSP.css",
       "PackagePath": "staticwebassets\\css\\chitietSP.css"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
     },
     {
       "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\giohang.css",
@@ -27,6 +35,10 @@
     {
       "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\layout3.css",
       "PackagePath": "staticwebassets\\css\\layout3.css"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\phantrang.css",
+      "PackagePath": "staticwebassets\\css\\phantrang.css"
     },
     {
       "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\site.css",
@@ -227,6 +239,342 @@
     {
       "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\342715545_258965559969917_1014741937885395073_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\342715545_258965559969917_1014741937885395073_n.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay1.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay10.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay10.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay11.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay11.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay12.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay12.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay2.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay3.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay4.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay4.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay5.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay5.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay6.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay6.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay7.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay7.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay8.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay8.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay9.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\giay9.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean1.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean10.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean10.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean11.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean11.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean12.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean12.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean2.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean3.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean4.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean4.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean5.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean5.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean6.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean6.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean7.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean7.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean8.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean8.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean9.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\jean9.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo1.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo10.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo10.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo11.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo11.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo12.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo12.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo2.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo3.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo4.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo4.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo5.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo5.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo6.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo6.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo7.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo7.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo8.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo8.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo9.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\polo9.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short1.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short10.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short10.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short11.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short11.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short12.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short12.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short2.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short3.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short4.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short4.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short5.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short5.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short6.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short6.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short7.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short7.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short8.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short8.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short9.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\short9.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi1.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi10.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi10.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi11.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi11.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi12.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi12.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi2.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi3.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi4.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi4.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi5.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi5.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi6.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi6.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi7.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi7.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi8.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi8.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi9.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\somi9.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay1.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay10.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay10.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay11.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay11.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay12.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay12.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay2.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay3.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay4.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay4.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay5.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay5.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay6.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay6.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay7.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay7.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay8.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay8.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay9.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\tay9.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun1.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun10.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun10.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun11.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun11.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun12.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun12.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun2.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun3.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun4.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun4.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun5.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun5.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun6.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun6.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun7.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun7.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun8.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun8.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun9.jpg",
+      "PackagePath": "staticwebassets\\img\\imgSanPham\\thun9.jpg"
     },
     {
       "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\loi-khuyen-thoi-trang-a.jpg",
