@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "viOEv60EoZS+VIZgUobBX7Qz9lr0ZXaB++xRYr+VVEXOpFgNUKlH1nYTH6o+5P+qa7U1/M4au1njlh3m0rCXGA==",
+  "dgSpecHash": "PO+hHCw7BEFywapCaMuOXezuTcXQtkWPAqlE1TOncjbOzeQqUreJxP34mX9xQ6xdS5B0TmtLtaWKfsrO9Y5wlA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\Clothes_2.Web.csproj",
+  "projectFilePath": "D:\\Clothes_2.Web\\Clothes_2.Web\\Clothes_2.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANH KIET\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ANH KIET\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

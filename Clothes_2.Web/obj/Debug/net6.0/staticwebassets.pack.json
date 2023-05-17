@@ -1,835 +1,835 @@
 {
   "Files": [
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Clothes_2.Web.bundle.scp.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Clothes_2.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\Clothes_2.Web.bundle.scp.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\blog.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\blog.css",
       "PackagePath": "staticwebassets\\css\\blog.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\chitietSP.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\chitietSP.css",
       "PackagePath": "staticwebassets\\css\\chitietSP.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\contact.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\contact.css",
       "PackagePath": "staticwebassets\\css\\contact.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\giohang.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\giohang.css",
       "PackagePath": "staticwebassets\\css\\giohang.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\gioithieu.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\gioithieu.css",
       "PackagePath": "staticwebassets\\css\\gioithieu.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\index.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\layout.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\layout.css",
       "PackagePath": "staticwebassets\\css\\layout.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\layout3.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\layout3.css",
       "PackagePath": "staticwebassets\\css\\layout3.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\phantrang.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\phantrang.css",
       "PackagePath": "staticwebassets\\css\\phantrang.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\site.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\timkiemtholoaisp.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\timkiemtholoaisp.css",
       "PackagePath": "staticwebassets\\css\\timkiemtholoaisp.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\user.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\user.css",
       "PackagePath": "staticwebassets\\css\\user.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\favicon.ico",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\arrow-left-solid.svg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\arrow-left-solid.svg",
       "PackagePath": "staticwebassets\\icon\\arrow-left-solid.svg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\arrow-right-from-bracket-solid.svg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\arrow-right-from-bracket-solid.svg",
       "PackagePath": "staticwebassets\\icon\\arrow-right-from-bracket-solid.svg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\cart-plus-solid.svg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\cart-plus-solid.svg",
       "PackagePath": "staticwebassets\\icon\\cart-plus-solid.svg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\cart-shopping-solid.svg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\cart-shopping-solid.svg",
       "PackagePath": "staticwebassets\\icon\\cart-shopping-solid.svg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\0E3A1637-1.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\0E3A1637-1.jpg",
       "PackagePath": "staticwebassets\\img\\0E3A1637-1.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\Cover.webp",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\Cover.webp",
       "PackagePath": "staticwebassets\\img\\Cover.webp"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\IMG_0625.png",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\IMG_0625.png",
       "PackagePath": "staticwebassets\\img\\IMG_0625.png"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\Ru0eoTh28f37I6rYs4gCIQnOVRCkrBls6G9UwuOo.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\Ru0eoTh28f37I6rYs4gCIQnOVRCkrBls6G9UwuOo.jpg",
       "PackagePath": "staticwebassets\\img\\Ru0eoTh28f37I6rYs4gCIQnOVRCkrBls6G9UwuOo.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\background.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\background.jpg",
       "PackagePath": "staticwebassets\\img\\background.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\banner-web-1-1-1.webp",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\banner-web-1-1-1.webp",
       "PackagePath": "staticwebassets\\img\\banner-web-1-1-1.webp"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\banner-web-3-1.webp",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\banner-web-3-1.webp",
       "PackagePath": "staticwebassets\\img\\banner-web-3-1.webp"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\d09340cb6a7a9663327d7a5f16839c6f.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\d09340cb6a7a9663327d7a5f16839c6f.jpg",
       "PackagePath": "staticwebassets\\img\\d09340cb6a7a9663327d7a5f16839c6f.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\279521305_4878611038902680_6601190801857394836_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\279521305_4878611038902680_6601190801857394836_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\279521305_4878611038902680_6601190801857394836_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\280292827_4900057143424736_3582189047260431620_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\280292827_4900057143424736_3582189047260431620_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\280292827_4900057143424736_3582189047260431620_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\281413221_4920009628096154_3333514162435504913_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\281413221_4920009628096154_3333514162435504913_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\281413221_4920009628096154_3333514162435504913_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\286345741_4989045694525880_6491918443805446781_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\286345741_4989045694525880_6491918443805446781_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\286345741_4989045694525880_6491918443805446781_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\287304188_5003899833040466_5664760585679243581_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\287304188_5003899833040466_5664760585679243581_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\287304188_5003899833040466_5664760585679243581_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\287815660_5006348656128917_5728265480885228798_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\287815660_5006348656128917_5728265480885228798_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\287815660_5006348656128917_5728265480885228798_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\289251427_5025234014240381_324392922532528525_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\289251427_5025234014240381_324392922532528525_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\289251427_5025234014240381_324392922532528525_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294589151_5102815089815606_1192721577859053131_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294589151_5102815089815606_1192721577859053131_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\294589151_5102815089815606_1192721577859053131_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294601572_5102815043148944_219447474877889346_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294601572_5102815043148944_219447474877889346_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\294601572_5102815043148944_219447474877889346_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294761808_5108295212600927_6555994738533045828_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294761808_5108295212600927_6555994738533045828_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\294761808_5108295212600927_6555994738533045828_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\295260844_5113894865374295_5620551336581414965_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\295260844_5113894865374295_5620551336581414965_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\295260844_5113894865374295_5620551336581414965_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\298771390_5166025560161225_1877504065143415104_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\298771390_5166025560161225_1877504065143415104_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\298771390_5166025560161225_1877504065143415104_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\305656107_5242933025803811_4961542119433585379_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\305656107_5242933025803811_4961542119433585379_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\305656107_5242933025803811_4961542119433585379_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\310989988_5321665821263864_3135910519383905346_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\310989988_5321665821263864_3135910519383905346_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\310989988_5321665821263864_3135910519383905346_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\311050559_5321665794597200_869185298857409346_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\311050559_5321665794597200_869185298857409346_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\311050559_5321665794597200_869185298857409346_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\311895805_5345957608834685_6329559627004134638_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\311895805_5345957608834685_6329559627004134638_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\311895805_5345957608834685_6329559627004134638_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316171402_5442848645812247_85552959241252189_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316171402_5442848645812247_85552959241252189_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\316171402_5442848645812247_85552959241252189_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316665362_5456274037803041_3802975772442572908_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316665362_5456274037803041_3802975772442572908_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\316665362_5456274037803041_3802975772442572908_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316807311_5462029880560790_4791643740754138515_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316807311_5462029880560790_4791643740754138515_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\316807311_5462029880560790_4791643740754138515_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316956287_5467394030024375_1962564847644552_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316956287_5467394030024375_1962564847644552_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\316956287_5467394030024375_1962564847644552_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317257513_5464710390292739_1755685574114429791_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317257513_5464710390292739_1755685574114429791_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\317257513_5464710390292739_1755685574114429791_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317334947_5467310343366077_3319677458422258625_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317334947_5467310343366077_3319677458422258625_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\317334947_5467310343366077_3319677458422258625_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317348698_5472791252817986_7714708165731259055_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317348698_5472791252817986_7714708165731259055_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\317348698_5472791252817986_7714708165731259055_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317601341_5475468179216960_4825647118493535691_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317601341_5475468179216960_4825647118493535691_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\317601341_5475468179216960_4825647118493535691_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317793174_5481154188648359_6179487169942729186_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317793174_5481154188648359_6179487169942729186_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\317793174_5481154188648359_6179487169942729186_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\322247041_1382599449236084_2374816129462583493_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\322247041_1382599449236084_2374816129462583493_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\322247041_1382599449236084_2374816129462583493_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\330444416_937372473953852_6107401394761210302_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\330444416_937372473953852_6107401394761210302_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\330444416_937372473953852_6107401394761210302_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\333988535_207770445163963_2894452983993695887_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\333988535_207770445163963_2894452983993695887_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\333988535_207770445163963_2894452983993695887_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\335412785_1286633102062160_7888851438601229480_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\335412785_1286633102062160_7888851438601229480_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\335412785_1286633102062160_7888851438601229480_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\336370562_1714262528988372_1993146400527411641_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\336370562_1714262528988372_1993146400527411641_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\336370562_1714262528988372_1993146400527411641_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\339668637_711929694067881_1122733281385560918_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\339668637_711929694067881_1122733281385560918_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\339668637_711929694067881_1122733281385560918_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\341693474_1248831676063348_8919085767094447226_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\341693474_1248831676063348_8919085767094447226_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\341693474_1248831676063348_8919085767094447226_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\341764029_602801691870794_6182031527670528015_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\341764029_602801691870794_6182031527670528015_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\341764029_602801691870794_6182031527670528015_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\342715545_258965559969917_1014741937885395073_n.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\342715545_258965559969917_1014741937885395073_n.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\342715545_258965559969917_1014741937885395073_n.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay1.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay1.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay1.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay10.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay10.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay10.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay11.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay11.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay11.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay12.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay12.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay12.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay2.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay2.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay2.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay3.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay3.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay3.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay4.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay4.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay4.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay5.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay5.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay5.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay6.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay6.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay6.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay7.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay7.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay7.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay8.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay8.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay8.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay9.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay9.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\giay9.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean1.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean1.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean1.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean10.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean10.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean10.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean11.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean11.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean11.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean12.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean12.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean12.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean2.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean2.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean2.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean3.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean3.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean3.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean4.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean4.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean4.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean5.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean5.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean5.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean6.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean6.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean6.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean7.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean7.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean7.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean8.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean8.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean8.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean9.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean9.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\jean9.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo1.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo1.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo1.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo10.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo10.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo10.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo11.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo11.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo11.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo12.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo12.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo12.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo2.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo2.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo2.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo3.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo3.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo3.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo4.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo4.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo4.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo5.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo5.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo5.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo6.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo6.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo6.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo7.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo7.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo7.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo8.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo8.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo8.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo9.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo9.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\polo9.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short1.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short1.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short1.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short10.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short10.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short10.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short11.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short11.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short11.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short12.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short12.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short12.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short2.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short2.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short2.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short3.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short3.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short3.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short4.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short4.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short4.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short5.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short5.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short5.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short6.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short6.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short6.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short7.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short7.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short7.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short8.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short8.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short8.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short9.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short9.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\short9.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi1.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi1.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi1.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi10.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi10.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi10.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi11.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi11.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi11.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi12.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi12.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi12.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi2.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi2.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi2.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi3.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi3.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi3.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi4.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi4.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi4.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi5.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi5.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi5.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi6.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi6.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi6.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi7.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi7.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi7.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi8.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi8.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi8.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi9.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi9.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\somi9.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay1.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay1.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay1.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay10.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay10.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay10.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay11.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay11.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay11.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay12.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay12.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay12.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay2.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay2.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay2.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay3.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay3.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay3.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay4.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay4.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay4.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay5.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay5.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay5.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay6.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay6.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay6.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay7.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay7.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay7.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay8.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay8.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay8.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay9.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay9.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\tay9.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun1.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun1.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun1.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun10.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun10.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun10.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun11.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun11.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun11.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun12.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun12.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun12.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun2.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun2.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun2.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun3.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun3.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun3.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun4.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun4.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun4.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun5.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun5.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun5.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun6.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun6.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun6.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun7.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun7.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun7.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun8.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun8.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun8.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun9.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun9.jpg",
       "PackagePath": "staticwebassets\\img\\imgSanPham\\thun9.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\loi-khuyen-thoi-trang-a.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\loi-khuyen-thoi-trang-a.jpg",
       "PackagePath": "staticwebassets\\img\\loi-khuyen-thoi-trang-a.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\schic-01-scaled.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\schic-01-scaled.jpg",
       "PackagePath": "staticwebassets\\img\\schic-01-scaled.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\slider1.jpg",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\slider1.jpg",
       "PackagePath": "staticwebassets\\img\\slider1.jpg"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\test.png",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\test.png",
       "PackagePath": "staticwebassets\\img\\test.png"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\chitietSP.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\chitietSP.js",
       "PackagePath": "staticwebassets\\js\\chitietSP.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\site.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\user.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\user.js",
       "PackagePath": "staticwebassets\\js\\user.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

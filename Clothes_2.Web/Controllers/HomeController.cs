@@ -19,10 +19,16 @@ namespace Clothes_2.Web.Controllers
             _context = context;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int pageNumber)
 		{
-            return _context.SanPham != null ?
-                         View(await _context.SanPham.ToListAsync()) :
+			var pageSize = 12;
+			var applicationDbContext = _context.SanPham.Include(s => s.LoaiSanPham);
+			var query = applicationDbContext.Skip(pageNumber * pageSize).Take(pageSize);
+			ViewBag.MaxPage = applicationDbContext.Count() / pageSize;
+			ViewBag.Page = pageNumber;
+			ViewBag.TrangHienTai = pageNumber + 1;
+			return _context.SanPham != null ?
+                         View(await query.ToListAsync()) :
                          Problem("Entity set 'ApplicationDbContext.LoaiSanPham'  is null.");
         }
 

@@ -64,11 +64,25 @@
 
         <form asp-action="addCookie" id="form-muahang">
             <div id="size">
-                <p class="note">size</p>
-                <input type="radio" name="size" class="rad" value="M" required>M
-                <input type="radio" name="size" class="rad" style="margin-left: 10px;" value="L"> L
-                <input type="radio" name="size" class="rad" style="margin-left: 10px;" value="XL"> XL
+                @if (Model.LoaiSanPhamId.ToString() == "8eba3a7d-0dd3-4951-9340-b603096dcc55")
+                {
+                    <p class="note">size</p>
+                    <input type="radio" name="size" class="rad" value="39" required>
 
+                    <p>39</p>
+                    <input type="radio" name="size" class="rad" style="margin-left: 10px;" value="40">
+
+                    <p>40</p>
+                    <input type="radio" name="size" class="rad" style="margin-left: 10px;" value="41">
+
+                    <p>41</p>
+                }
+                else{
+                <p class="note">size</p>
+                <input type="radio" name="size" class="rad" value="M" required><p>M</p> 
+                <input type="radio" name="size" class="rad" style="margin-left: 10px;" value="L"><p>L</p>
+                <input type="radio" name="size" class="rad" style="margin-left: 10px;" value="XL"><p>XL</p>
+                }
             </div>
             <div id="SoLuong">
                 <p class="note">số lượng</p>

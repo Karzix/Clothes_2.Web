@@ -5,7 +5,7 @@
 }
 
 <link href="~/css/index.css" rel="stylesheet" />
-
+<link href="~/css/phantrang.css" rel="stylesheet" />
 
 
 <div id="slider">
@@ -86,5 +86,16 @@
         </a>
     }
 
+</div>
+<div id="PhanTrang" style="display:flex; justify-content:center;">
+    @if (ViewBag.Page > 0)
+    {
+        @Html.ActionLink("<<", "Index", new { pageNumber = ViewBag.Page - 1 }, new{@class="chuyentrang"})
+    }
+    <p class="tranghientai">@ViewBag.TrangHienTai</p>
+    @if (ViewBag.Page < ViewBag.MaxPage)
+    {
+        @Html.ActionLink(">>", "Index", new { pageNumber = ViewBag.Page + 1 },new{@class="chuyentrang"})
+    }
 </div>
 

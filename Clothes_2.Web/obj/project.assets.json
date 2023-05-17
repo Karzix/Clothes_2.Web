@@ -10465,11 +10465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\Clothes_2.Web.csproj",
+      "projectUniqueName": "D:\\Clothes_2.Web\\Clothes_2.Web\\Clothes_2.Web.csproj",
       "projectName": "Clothes_2.Web",
-      "projectPath": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\Clothes_2.Web.csproj",
+      "projectPath": "D:\\Clothes_2.Web\\Clothes_2.Web\\Clothes_2.Web.csproj",
       "packagesPath": "C:\\Users\\ANH KIET\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\obj\\",
+      "outputPath": "D:\\Clothes_2.Web\\Clothes_2.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

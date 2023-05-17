@@ -6,8 +6,6 @@ D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\Clothes_2.Web.deps.json
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\Clothes_2.Web.runtimeconfig.json
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\Clothes_2.Web.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\Clothes_2.Web.pdb
-D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\EntityFramework.SqlServer.dll
-D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\EntityFramework.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\Humanizer.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\MessagePack.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -73,14 +71,12 @@ D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\NuGet.Packaging.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\NuGet.ProjectModel.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\NuGet.Protocol.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\NuGet.Versioning.dll
-D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.CodeDom.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.Composition.AttributedModel.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.Composition.Convention.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.Composition.Hosting.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.Composition.Runtime.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.Composition.TypedParts.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.Drawing.Common.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -252,11 +248,6 @@ D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Micros
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\Clothes_2.Web\Clothes_2.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
