@@ -4,6 +4,7 @@
     Layout = "~/Views/Shared/_Layout2.cshtml";
 }
 <link href="~/css/timkiemtholoaisp.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
 <div id="body">
     <div id="Boloctimkiem">
         <div id="noiBan">
@@ -97,9 +98,26 @@
     <div>
         <div id="Sapxep">
             <p>Sắp xếp theo:   </p>
-            <button>Liên quan</button>
-            <button>Mới nhất</button>
-            <button>Bán chạy</button>
+            <button>
+            @if (ViewBag.sort == "Gia" && ViewBag.asc == "False")
+            {
+                    @Html.ActionLink("Giá","TimKiemTheoLoaiSP",new {sort = "Gia", asc="True"},new { @class= "fas fa-sort-amount-down-alt sort" })
+            }
+            else
+            {
+                    @Html.ActionLink("Giá","TimKiemTheoLoaiSP", new {sort = "Gia", asc="False"},new { @class= "fas fa-sort-amount-down sort" })
+			}
+			</button>
+            <button>
+                @if (ViewBag.sort == "SoLuotMua" && ViewBag.asc == "False")
+                {
+                    @Html.ActionLink("Số lượt mua","TimKiemTheoLoaiSP",new {sort = "SoLuotMua", asc="True"},new { @class= "fas fa-sort-amount-down-alt sort" })
+                }
+                else
+                {
+                    @Html.ActionLink("Số lượt mua","TimKiemTheoLoaiSP", new {sort = "SoLuotMua", asc="False"},new { @class= "fas fa-sort-amount-down sort" })
+                }
+            </button>
         </div>
         <div id="DanhSach_SP">
             @foreach(var item in Model){

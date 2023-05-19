@@ -87,7 +87,7 @@
     }
 
 </div>
-<div id="PhanTrang" style="display:flex; justify-content:center;">
+<div id="PhanTrang" style="display:flex; justify-content:center; margin: 40px;">
     @if (ViewBag.Page > 0)
     {
         @Html.ActionLink("<<", "Index", new { pageNumber = ViewBag.Page - 1 }, new{@class="chuyentrang"})

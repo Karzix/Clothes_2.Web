@@ -109,3 +109,10 @@ body {
         #Sapxep button:hover {
             background-color: rgb(123, 107, 107);
         }
+.sort {
+    text-decoration: none;
+    color: black;
+    width: 100%;
+    height: 100%;
+    line-height: 40px !important;
+}

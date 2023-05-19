@@ -60,7 +60,7 @@
             </svg>
         </div>
 
-        <p class="gia-SP">@Html.DisplayFor(model => model.Gia) ₫ </p>
+        <p class="gia-SP">@*@Html.DisplayFor(model => model.Gia) ₫*@  @Model.Gia.ToString("C0",System.Globalization.CultureInfo.GetCultureInfo("vi-VN"))</p>
 
         <form asp-action="addCookie" id="form-muahang">
             <div id="size">

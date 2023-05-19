@@ -171,19 +171,54 @@ namespace Clothes_2.Web.Controllers
         {
             return View("GioiThieu");
         }
-        public async Task<IActionResult> TimKiemTheoLoaiSP(Guid? id, string search)
+        public async Task<IActionResult> TimKiemTheoLoaiSP(Guid? id, string search, string asc, string sort)
         {
-			var applicationDbContext = _context.SanPham.Include(s => s.LoaiSanPham).AsQueryable();
-            if(id!= null)
+            var applicationDbContext = _context.SanPham.Include(s => s.LoaiSanPham).AsQueryable();
+            if (id != null)
             {
-                applicationDbContext= _context.SanPham.Where(sp=>sp.LoaiSanPhamId==id);
+                applicationDbContext = _context.SanPham.Where(sp => sp.LoaiSanPhamId == id);
             }
-			if (search != null)
+            if (search != null)
             {
-                applicationDbContext =  _context.SanPham.Where(sp => sp.TenSanPham.Contains(search));
+                applicationDbContext = _context.SanPham.Where(sp => sp.TenSanPham.Contains(search));
             }
+            ViewBag.asc = asc;
+            ViewBag.sort = sort;
+            //if (asc == "True")
+            //{
+            //    applicationDbContext = applicationDbContext.OrderByDescending(sp => sp.Gia);
+            //}
+            //else
+            //{
+            //    applicationDbContext = applicationDbContext.OrderBy(sp => sp.Gia);
+            //}
+            if (sort != null)
+            {
+                switch (sort)
+                {
+                    case "Gia":
+                        {
+                            if (asc == "True")
+                            { applicationDbContext = applicationDbContext.OrderByDescending(sp => sp.Gia); }
+                            else
+                            { applicationDbContext = applicationDbContext.OrderBy(sp => sp.Gia); }
+                            break;
+                        }
+                    case "SoLuotMua":
+                        {
+                            if (asc == "True")
+                            { applicationDbContext = applicationDbContext.OrderByDescending(sp => sp.SoLuotMua); }
+                            else
+                            { applicationDbContext = applicationDbContext.OrderBy(sp => sp.SoLuotMua); }
+                            break;
+                        }
+                    default:
+                        break;
+                }
+            } 
             return View("TimKiemTheoLoaiSP", applicationDbContext);
         }
+
 
         public IActionResult DeleteGioHang(Guid id)
         {

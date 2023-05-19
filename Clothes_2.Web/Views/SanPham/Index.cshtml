@@ -10,7 +10,7 @@
 <p>
     <a asp-action="Create">Tạo mới sản phẩm</a>
 </p>
-@ViewBag.Page
+
 <table class="table">
     <thead>
         <tr>
@@ -45,7 +45,8 @@
                 @Html.DisplayFor(modelItem => item.TenSanPham)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.image)
+              @*  @Html.DisplayFor(modelItem => item.image)*@
+                    <img src="~/img/imgsanpham/@item.image" alt="" class="img-SP" style="width:50px">
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Gia)
