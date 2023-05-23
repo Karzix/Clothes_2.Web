@@ -1,0 +1,84 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: black;
+}
+
+:root {
+    --main-color: #FFB90F;
+    --black: #13131a;
+    --bg: #010103;
+    --border: .10px soid rgba(255, 255, 255, .3);
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blogs .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 1.5rem;
+}
+
+    .blogs .box-container .box {
+        border: var(--boder);
+    }
+
+        .blogs .box-container .box .image {
+            height: 25rem;
+            overflow: hidden;
+            width: 100%;
+        }
+
+            .blogs .box-container .box .image img {
+                height: 100%;
+                object-fit: cover;
+                width: 100%;
+            }
+
+        .blogs .box-container .box:hover .image img {
+            transform: scale(1.2);
+        }
+
+        .blogs .box-container .box .content {
+            padding: 2rem;
+        }
+
+            .blogs .box-container .box .content .title {
+                padding: 2rem;
+                font-size: 2.5rem;
+                line-height: 1.5;
+                color: #fff;
+                background-color: rgba(0,0,0,0);
+            }
+
+                .blogs .box-container .box .content .title:hover {
+                    color: var(--main-color);
+                }
+
+            .blogs .box-container .box .content span {
+                color: var(--main-color);
+                display: block;
+                padding-top: 1rem;
+                font-size: 2rem;
+            }
+
+            .blogs .box-container .box .content p {
+                font-size: 1.6rem;
+                line-height: 1.8;
+                color: #ccc;
+            }
+
+            .blogs .box-container .box .content a.btn {
+                color: white;
+                border: 2px solid;
+                text-decoration: none;
+                padding: 5px;
+                background: orange;
+            }
+
+            .blogs .box-container .box .content a.title {
+                text-decoration: none;
+            }

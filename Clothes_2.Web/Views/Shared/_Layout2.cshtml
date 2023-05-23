@@ -20,10 +20,12 @@
         <!-- đặc tên id có ghi đủ: {tên thành phần cha}-{tên thành phần con} -->
         <!--  -->
         <header id="header">
-            <a asp-controller="SanPhams" asp-action="Index" class="logo">
+            <a href="#" class="logo">
                 <img src="https://icolor.vn/wp-content/uploads/2021/03/m%E1%BA%ABu-logo-%C4%91en-tr%E1%BA%AFng-%C4%91%E1%BA%B9p-icolor-phanblogs-14.jpg"
                      alt="">
             </a>
+				<i class="fas fa-chevron-down" id="down-navbar" onclick="downNav()"></i>
+
             <ul class="navbar">
                 <li><a asp-action="Index">Trang chủ</a></li>
                 <li><a asp-controller="Home" asp-action="GioiThieu">Giới thiệu</a></li>
@@ -61,7 +63,7 @@
 
             </ul>
 
-            <div class="icon" style="display:contents;">
+            <div class="icon" >
                 @*<a href="" class="fas fa-user" id="user-btn" asp-area="Identity" asp-page="/Account/Login"></a>
                 <a href="" class="" id="search-btn" asp-area="Identity" asp-page="/Account/Register">Register</a>
                 <a href="" class="" id="cart-btn">out</a>*@
@@ -70,7 +72,6 @@
                         <input type="text" id="search-text" placeholder="Tìm kiếm ở đây" name="search">
                         <button type="submit" id="search-submit"><i class="fas fa-search"></i></button>
                     </form>
-
             </div>
         </header>
 

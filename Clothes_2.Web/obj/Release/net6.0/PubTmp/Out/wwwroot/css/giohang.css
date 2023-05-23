@@ -1,0 +1,102 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+#header-layout2 {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+    #header-layout2 img {
+        display: block;
+        width: 40px;
+        padding-right: 10px;
+        cursor: pointer;
+    }
+
+#Thongtin-embrace-SP {
+    display: flex;
+    width: 100%;
+    max-height: 200px;
+    padding: 10px;
+    background-color: #fff;
+    margin-right: 10px;
+    margin: 10px 0;
+}
+
+#img-SP {
+    flex: 3;
+}
+
+    #img-SP img {
+        width: 100%;
+        height: 100%;
+    }
+
+#thongtin {
+    padding-left: 20px;
+    flex: 7;
+    width: 70%;
+}
+
+    #thongtin > * {
+        font-size: 20px;
+        margin: 5px;
+    }
+
+.star {
+    width: 20px;
+    height: 15px;
+}
+
+#danhgia {
+    display: flex;
+    align-items: center;
+}
+
+svg.bi-star-fill {
+    color: goldenrod;
+}
+
+#thongtinkhachhang > * {
+    display: block;
+    margin: 10px 0;
+}
+
+#thongtinkhachhang {
+}
+
+    #thongtinkhachhang label {
+        font-size: 20px;
+    }
+
+    #thongtinkhachhang input {
+        height: 35px;
+        width: 100%;
+    }
+
+#main {
+    display: flex;
+}
+
+#sanpham {
+    width: 50%;
+    margin-right: 10px;
+}
+
+#DatHang {
+    background-color: #000;
+    color: #fff;
+}
+
+#right {
+    width: 50%;
+    padding: 0 20px;
+}
