@@ -101,21 +101,21 @@
             <button>
             @if (ViewBag.sort == "Gia" && ViewBag.asc == "False")
             {
-                    @Html.ActionLink("Giá","TimKiemTheoLoaiSP",new {sort = "Gia", asc="True"},new { @class= "fas fa-sort-amount-down-alt sort" })
+                    @Html.ActionLink("Giá","TimKiemTheoLoaiSP",new {sort = "Gia", asc="True", search=ViewBag.timkiem},new { @class= "fas fa-sort-amount-down-alt sort" })
             }
             else
             {
-                    @Html.ActionLink("Giá","TimKiemTheoLoaiSP", new {sort = "Gia", asc="False"},new { @class= "fas fa-sort-amount-down sort" })
+                    @Html.ActionLink("Giá","TimKiemTheoLoaiSP", new {sort = "Gia", asc="False" ,search=ViewBag.timkiem},new { @class= "fas fa-sort-amount-down sort" })
 			}
 			</button>
             <button>
                 @if (ViewBag.sort == "SoLuotMua" && ViewBag.asc == "False")
                 {
-                    @Html.ActionLink("Số lượt mua","TimKiemTheoLoaiSP",new {sort = "SoLuotMua", asc="True"},new { @class= "fas fa-sort-amount-down-alt sort" })
+                    @Html.ActionLink("Số lượt mua","TimKiemTheoLoaiSP",new {sort = "SoLuotMua", asc="True", search=ViewBag.timkiem},new { @class= "fas fa-sort-amount-down-alt sort" })
                 }
                 else
                 {
-                    @Html.ActionLink("Số lượt mua","TimKiemTheoLoaiSP", new {sort = "SoLuotMua", asc="False"},new { @class= "fas fa-sort-amount-down sort" })
+                    @Html.ActionLink("Số lượt mua","TimKiemTheoLoaiSP", new {sort = "SoLuotMua", asc="False", search=ViewBag.timkiem},new { @class= "fas fa-sort-amount-down sort" })
                 }
             </button>
         </div>

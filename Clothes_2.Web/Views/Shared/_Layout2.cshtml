@@ -24,7 +24,6 @@
                 <img src="https://icolor.vn/wp-content/uploads/2021/03/m%E1%BA%ABu-logo-%C4%91en-tr%E1%BA%AFng-%C4%91%E1%BA%B9p-icolor-phanblogs-14.jpg"
                      alt="">
             </a>
-				<i class="fas fa-chevron-down" id="down-navbar" onclick="downNav()"></i>
 
             <ul class="navbar">
                 <li><a asp-action="Index">Trang chủ</a></li>
@@ -69,7 +68,7 @@
                 <a href="" class="" id="cart-btn">out</a>*@
                 <partial name="_Login2Partial" />
                 <form id="search-box" asp-action="TimKiemTheoLoaiSP" asp-controller="Home">
-                        <input type="text" id="search-text" placeholder="Tìm kiếm ở đây" name="search">
+                    <input type="text" id="search-text" placeholder="Tìm kiếm ở đây" name="search" value="@ViewBag.timkiem">
                         <button type="submit" id="search-submit"><i class="fas fa-search"></i></button>
                     </form>
             </div>

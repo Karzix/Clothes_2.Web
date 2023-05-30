@@ -173,6 +173,7 @@ namespace Clothes_2.Web.Controllers
         }
         public async Task<IActionResult> TimKiemTheoLoaiSP(Guid? id, string search, string asc, string sort)
         {
+            ViewBag.timkiem = search;
             var applicationDbContext = _context.SanPham.Include(s => s.LoaiSanPham).AsQueryable();
             if (id != null)
             {
@@ -184,14 +185,6 @@ namespace Clothes_2.Web.Controllers
             }
             ViewBag.asc = asc;
             ViewBag.sort = sort;
-            //if (asc == "True")
-            //{
-            //    applicationDbContext = applicationDbContext.OrderByDescending(sp => sp.Gia);
-            //}
-            //else
-            //{
-            //    applicationDbContext = applicationDbContext.OrderBy(sp => sp.Gia);
-            //}
             if (sort != null)
             {
                 switch (sort)
@@ -216,7 +209,7 @@ namespace Clothes_2.Web.Controllers
                         break;
                 }
             } 
-            return View("TimKiemTheoLoaiSP", applicationDbContext);
+            return View("TimKiemTheoLoaiSP",await applicationDbContext.ToListAsync());
         }
 
 

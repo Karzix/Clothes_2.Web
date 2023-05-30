@@ -50,7 +50,7 @@ html {
 }
 #header .navbar li {
     width: 120px;
-    margin: 0 10px;
+
     font-size: 23px;
     line-height: 74.55px;
     color: #fff;
@@ -72,18 +72,26 @@ html {
 #header .navbar li:hover>div{
     display: block;
 }
+#header .icon {
+    display: flex;
+    align-items:center;
+}
 #header .icon a {
     cursor: pointer;
     font-size: 23px;
     margin-left: 20px;
     color: #fff;
     text-decoration: none;
+    height:24px;
 }
 
     #header .icon a:hover {
         color: var(--main-color);
     }
-.item-nav{
+#header .icon form{
+    height:24px;
+}
+.item-nav {
     position: relative;
 }
 .sub-item-nav {
@@ -124,6 +132,35 @@ html {
 .sub-item-nav ul li:hover>ul{
     display: block;
 }
+#reponsive-header {
+    width: auto;
+    display: flex;
+}
+#down-navbar {
+    display: none;
+    cursor: pointer;
+    font-size: 23px;
+    margin-left: 20px;
+    color: #fff;
+    text-decoration: none;
+    height: 24px;
+}
+/*@media(max-width: 1120px) {
+    #reponsive-header{
+        display:none;
+    }
+    #header{
+        display:block;
+    }
+    #down-navbar {
+        display: block;
+        float: right;
+        line-height: 75px;
+        margin: 0 25px;
+    }
+}*/
+
+
 
 #footer {
     width: 100%;

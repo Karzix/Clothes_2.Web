@@ -22,7 +22,9 @@
 
 <body>
     <header id="header-layout2">
-        <img src="~/icon/arrow-left-solid.svg" alt="" id="history-back" onclick="backHistory()">
+        <a asp-action="Index" asp-controller="Home">
+			<img src="~/icon/arrow-left-solid.svg" alt="" id="history-back">
+		</a>
         <h3>Giỏ hàng của bạn</h3>
     </header>
     <div id="main">
