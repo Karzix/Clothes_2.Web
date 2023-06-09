@@ -23,14 +23,17 @@
             <div class="form">
                 <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
                 <label for="">Emai</label>
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
             </div>
             <div class="form">
                 <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" />
                 <label for="">Mật khẩu </label>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
             </div>
             <div class="form">
                 <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" />
                 <label for="">Nhập lại mật khẩu</label>
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
             </div>
             <div class="button">
                 <input type="submit" value="Đăng kí" id="btn-login">

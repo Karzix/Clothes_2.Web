@@ -86,10 +86,12 @@
             </div>
             <div id="SoLuong">
                 <p class="note">số lượng</p>
+                <button id="down" onclick="downslhang()" type="button">down</button>
                 <input type="number" value="1" min="1" id="SL" name="SoLuong">
+                <button id="up" onclick="upslhang()" type="button">up</button>
             </div>
             <div id="idSanpham">
-                <p>Mã sản phẩm: </p>
+                <p class="note">Mã sản phẩm: </p>
 				<input type="text" name="IdSanPham" value="@Html.DisplayFor(Model=>Model.Id)" readonly />
 			</div>
             <div id="buy">
@@ -138,3 +140,5 @@
     </div>
 
 </div>
+
+
