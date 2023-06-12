@@ -56,7 +56,8 @@ label {
     top: 50%;
     transform: translateY(-150%);
     display: block;
-    background-color: white;
+    background-color: rgba(255,255,255,0.2);
+
     /* pointer-events: none;background: #fff; */
 }
 /* .form input:focus + label, .form input:valid +label{
@@ -87,4 +88,7 @@ input #btn-register {
     background: #1a73e8;
     color: #fff;
     cursor: pointer;
+}
+.text-danger{
+    color:red;
 }

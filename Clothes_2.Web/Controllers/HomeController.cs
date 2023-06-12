@@ -1,5 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Drawing;
+using System.Net.Mail;
+using System.Net;
 using System.Security.Claims;
 using Clothes_2.Web.Data;
 using Clothes_2.Web.Models;
@@ -62,7 +64,7 @@ namespace Clothes_2.Web.Controllers
             return View(sanPham);
         }
 
-        public IActionResult addCookie(int SoLuong, string Size, Guid IdSanPham)
+        public async Task<IActionResult> addCookie(int SoLuong, string Size, Guid IdSanPham)
         {
             string key = User.FindFirstValue(ClaimTypes.NameIdentifier);
             if (key == null)
@@ -133,8 +135,7 @@ namespace Clothes_2.Web.Controllers
                 };
                 Response.Cookies.Append(key, updateGioHang, updatecookie);
             }
-
-            return View("Index", _context.SanPham);
+            return View("Details",await _context.SanPham.Where(sp=>sp.Id==IdSanPham).FirstOrDefaultAsync());
         }
 
         public IActionResult ReadCookie()
@@ -237,12 +238,17 @@ namespace Clothes_2.Web.Controllers
 			}
             listsp.Remove(listsp.Where(sp=>sp.Id==id).FirstOrDefault());
 			string updateGioHang = JsonConvert.SerializeObject(listsp);
-			CookieOptions updatecookie = new CookieOptions()
-			{
-				Expires = DateTime.Now.AddDays(-1)
-			};
-			Response.Cookies.Append(key, updateGioHang, updatecookie);
-			return View("GioHang", listsp);
+			//CookieOptions remove = new CookieOptions()
+			//{
+			//	Expires = DateTime.Now.AddDays(-1)
+			//};
+			//Response.Cookies.Append(key, updateGioHang, remove);
+            CookieOptions updatecookie = new CookieOptions()
+            {
+                Expires = DateTime.Now.AddDays(7)
+            };
+            Response.Cookies.Append(key, updateGioHang, updatecookie);
+            return View("GioHang", listsp);
 
 		}
         public IActionResult Contact()
@@ -253,6 +259,30 @@ namespace Clothes_2.Web.Controllers
         {
             return View("Blog");
         }
+        //[HttpPost]
+        //public ActionResult Contact(string ten, string sdt, string noidung)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
+        //        // Tạo một đối tượng MailMessage để chứa thông tin về email
+        //        MailMessage mail = new MailMessage();
+        //        mail.From = new MailAddress("anhkietlop10a3hvs@gmail.com");
+        //        mail.To.Add("anhkietlop10a3hvs@gmail.com");
+        //        mail.Subject = "liên hệ từ " + ten;
+        //        mail.Body = "Tên: " + ten + "\nEmail: " + sdt + "\nNội dung: " + noidung;
+
+        //        // Tạo một đối tượng SmtpClient để gửi email
+        //        SmtpClient smtp = new SmtpClient();
+        //        smtp.Host = "smtp.gmail.com"; // Địa chỉ máy chủ SMTP của bạn
+        //        smtp.Port = 587; // Cổng SMTP của bạn
+        //        smtp.Credentials = new NetworkCredential("anhkietlop10a3hvs@gmail.com", "kietvip1");
+        //        smtp.EnableSsl = true;
+        //        smtp.Send(mail);
+
+        //        ////ViewBag.Message = "Cảm ơn bạn đã gửi khảo sát!";
+        //    }
+        //    return View("Contact"); 
+        //}
 
     }
 }

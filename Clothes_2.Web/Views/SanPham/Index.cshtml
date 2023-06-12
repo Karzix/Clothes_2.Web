@@ -7,10 +7,15 @@
 <link href="~/css/phantrang.css" rel="stylesheet" />
 <h1>Quản lý sản phẩm</h1>
 <a asp-action="Index" asp-controller="LoaiSanPham">chuyển hướng đến: Quản lý loại sản phẩm</a>
+<br />
+<a asp-action="Index" asp-controller="ChiTietHoaDon">chuyển hướng đến: Các đơn hàng </a>
 <p>
     <a asp-action="Create">Tạo mới sản phẩm</a>
 </p>
-
+<form asp-controller="SanPham" asp-action="Index">
+    <input type="text" name="idSanPham"/>
+    <input type="submit" value="submit"/>
+</form>
 <table class="table">
     <thead>
         <tr>

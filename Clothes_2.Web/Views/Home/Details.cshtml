@@ -9,6 +9,7 @@
 }
 <link href="~/css/chitietsp.css" rel="stylesheet" />
 <script src="~/js/chitietsp.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
 
 @*<h1>Details</h1>
 
@@ -42,7 +43,7 @@
     <div id="thongtin">
         <h3>@Html.DisplayFor(model => model.TenSanPham)</h3>
         <div id="danhgia">
-            <p>đánh giá: </p>
+            <p>Đánh giá: </p>
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
                 <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
             </svg>
@@ -62,11 +63,11 @@
 
         <p class="gia-SP">@*@Html.DisplayFor(model => model.Gia) ₫*@  @Model.Gia.ToString("C0",System.Globalization.CultureInfo.GetCultureInfo("vi-VN"))</p>
 
-        <form asp-action="addCookie" id="form-muahang">
+        <form asp-action="addCookie" id="form_muahang" >
             <div id="size">
                 @if (Model.LoaiSanPhamId.ToString() == "8eba3a7d-0dd3-4951-9340-b603096dcc55")
                 {
-                    <p class="note">size</p>
+                    <p class="note">Size</p>
                     <input type="radio" name="size" class="rad" value="39" required>
 
                     <p>39</p>
@@ -83,12 +84,14 @@
                 <input type="radio" name="size" class="rad" style="margin-left: 10px;" value="L"><p>L</p>
                 <input type="radio" name="size" class="rad" style="margin-left: 10px;" value="XL"><p>XL</p>
                 }
+                
             </div>
+            <p id="error_size" style="color:red; font-size:15px; margin-left:100px;" ></p>
             <div id="SoLuong">
-                <p class="note">số lượng</p>
-                <button id="down" onclick="downslhang()" type="button">down</button>
+                <p class="note">Số lượng</p>
+                <button id="down" onclick="downslhang()" type="button">-</button>
                 <input type="number" value="1" min="1" id="SL" name="SoLuong">
-                <button id="up" onclick="upslhang()" type="button">up</button>
+                <button id="up" onclick="upslhang()" type="button">+</button>
             </div>
             <div id="idSanpham">
                 <p class="note">Mã sản phẩm: </p>
@@ -99,7 +102,7 @@
             {
                 <div class="form-group">
                     <img src="~/icon/cart-plus-solid.svg" alt="">
-                    <input type="submit" value="Thêm vào giỏ hàng" class="" />
+                        <input type="button" value="Thêm vào giỏ hàng" class="" onclick="themThanhCong()" id="Submit"/>
                 </div>
                    @* <button id="mua-ngay">
                         <a asp-route-id="@Model.Id" asp-route-size="" asp-action="Create" asp-controller="ChiTietHoaDon">Mua ngay</a>
@@ -141,4 +144,10 @@
 
 </div>
 
+<div id="themGioHang" >
+    <div style="justify-content: center; display: flex;flex-direction: column;  align-items: center;">
+        <i class="far fa-check-circle" style="font-size: 60px;color: white;"></i>
+        <p style="font-size: 30px; color: white;">Thêm thành công!</p>
+    </div>
+</div>
 

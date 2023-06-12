@@ -20,11 +20,16 @@ namespace Clothes_2.Web.Controllers
         }
 
         // GET: SanPham
-        public async Task<IActionResult> Index(int pageNumber)
+        public async Task<IActionResult> Index(int pageNumber , Guid? idSanPham)
         {
             var pageSize = 10;
             var applicationDbContext = _context.SanPham.Include(s => s.LoaiSanPham);
             var query = applicationDbContext.Skip(pageNumber * pageSize).Take(pageSize);
+            if (idSanPham != null)
+            {
+            query = query.Where(sp => sp.Id == idSanPham);
+            }
+           
             ViewBag.MaxPage = applicationDbContext.Count() / pageSize;
             ViewBag.Page = pageNumber;
             ViewBag.TrangHienTai = pageNumber + 1;
