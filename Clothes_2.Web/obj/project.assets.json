@@ -10465,11 +10465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Clothes_2.Web\\Clothes_2.Web\\Clothes_2.Web.csproj",
+      "projectUniqueName": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\Clothes_2.Web.csproj",
       "projectName": "Clothes_2.Web",
-      "projectPath": "D:\\Clothes_2.Web\\Clothes_2.Web\\Clothes_2.Web.csproj",
+      "projectPath": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\Clothes_2.Web.csproj",
       "packagesPath": "C:\\Users\\ANH KIET\\.nuget\\packages\\",
-      "outputPath": "D:\\Clothes_2.Web\\Clothes_2.Web\\obj\\",
+      "outputPath": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10548,7 +10548,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

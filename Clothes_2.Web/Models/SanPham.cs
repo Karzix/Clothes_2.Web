@@ -14,6 +14,7 @@ namespace Clothes_2.Web.Models
 		public string? XuatSu { get; set; }
 		public string? ChatLieu { get; set; }
 		public int SoLuotMua { get; set; } = 0;
+		public int SoHangConLai { get; set; } = 100;
 
 
 		[ForeignKey("LoaiSanPhamId")]

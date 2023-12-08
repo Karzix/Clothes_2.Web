@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VEsxKcQBI5CcQ0jiECTO4sqg0k6lfN6Gj7faisiuaQU=",
+  "Hash": "iJf2yXEFiudpw8dHgWFtkp7MjX8FUdVi/E94TElW5YY=",
   "Source": "Clothes_2.Web",
   "BasePath": "_content/Clothes_2.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Clothes_2.Web\\wwwroot",
       "Source": "Clothes_2.Web",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\ANH KIET\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Clothes_2.Web.styles.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Clothes_2.Web.styles.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "Clothes_2.Web.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Clothes_2.Web.styles.css"
+      "OriginalItemSpec": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Clothes_2.Web.styles.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Clothes_2.Web.bundle.scp.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Clothes_2.Web.bundle.scp.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "Clothes_2.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Clothes_2.Web.bundle.scp.css"
+      "OriginalItemSpec": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Clothes_2.Web.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\blog.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\blog.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/blog.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\blog.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\contact.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\contact.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/contact.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\contact.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\chitietSP.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\chitietSP.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/chitietSP.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\chitietSP.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\giohang.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\giohang.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/giohang.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\giohang.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\gioithieu.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\gioithieu.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/gioithieu.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\gioithieu.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\index.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\index.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\layout.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\layout.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/layout.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\layout.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\layout3.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\layout3.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/layout3.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\layout3.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\phantrang.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\phantrang.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/phantrang.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\css\\phantrang.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\site.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\site.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\timkiemtholoaisp.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\timkiemtholoaisp.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/timkiemtholoaisp.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\css\\timkiemtholoaisp.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\user.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\css\\user.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "css/user.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\css\\user.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\favicon.ico",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\favicon.ico",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\arrow-left-solid.svg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\arrow-left-solid.svg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "icon/arrow-left-solid.svg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\icon\\arrow-left-solid.svg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\arrow-right-from-bracket-solid.svg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\arrow-right-from-bracket-solid.svg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "icon/arrow-right-from-bracket-solid.svg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\icon\\arrow-right-from-bracket-solid.svg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\cart-plus-solid.svg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\cart-plus-solid.svg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "icon/cart-plus-solid.svg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\icon\\cart-plus-solid.svg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\cart-shopping-solid.svg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\icon\\cart-shopping-solid.svg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "icon/cart-shopping-solid.svg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\icon\\cart-shopping-solid.svg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\0E3A1637-1.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\0E3A1637-1.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/0E3A1637-1.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\0E3A1637-1.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\background.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\background.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/background.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\background.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\banner-web-1-1-1.webp",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\banner-web-1-1-1.webp",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/banner-web-1-1-1.webp",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-web-1-1-1.webp"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\banner-web-3-1.webp",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\banner-web-3-1.webp",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/banner-web-3-1.webp",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner-web-3-1.webp"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\Cover.webp",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\Cover.webp",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/Cover.webp",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Cover.webp"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\d09340cb6a7a9663327d7a5f16839c6f.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\d09340cb6a7a9663327d7a5f16839c6f.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/d09340cb6a7a9663327d7a5f16839c6f.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\d09340cb6a7a9663327d7a5f16839c6f.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\IMG_0625.png",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\IMG_0625.png",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/IMG_0625.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\IMG_0625.png"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\279521305_4878611038902680_6601190801857394836_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\279521305_4878611038902680_6601190801857394836_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/279521305_4878611038902680_6601190801857394836_n.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\279521305_4878611038902680_6601190801857394836_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\280292827_4900057143424736_3582189047260431620_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\280292827_4900057143424736_3582189047260431620_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/280292827_4900057143424736_3582189047260431620_n.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\280292827_4900057143424736_3582189047260431620_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\281413221_4920009628096154_3333514162435504913_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\281413221_4920009628096154_3333514162435504913_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/281413221_4920009628096154_3333514162435504913_n.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\281413221_4920009628096154_3333514162435504913_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\286345741_4989045694525880_6491918443805446781_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\286345741_4989045694525880_6491918443805446781_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/286345741_4989045694525880_6491918443805446781_n.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\286345741_4989045694525880_6491918443805446781_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\287304188_5003899833040466_5664760585679243581_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\287304188_5003899833040466_5664760585679243581_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/287304188_5003899833040466_5664760585679243581_n.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\287304188_5003899833040466_5664760585679243581_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\287815660_5006348656128917_5728265480885228798_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\287815660_5006348656128917_5728265480885228798_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/287815660_5006348656128917_5728265480885228798_n.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\287815660_5006348656128917_5728265480885228798_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\289251427_5025234014240381_324392922532528525_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\289251427_5025234014240381_324392922532528525_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/289251427_5025234014240381_324392922532528525_n.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\289251427_5025234014240381_324392922532528525_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294589151_5102815089815606_1192721577859053131_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294589151_5102815089815606_1192721577859053131_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/294589151_5102815089815606_1192721577859053131_n.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\294589151_5102815089815606_1192721577859053131_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294601572_5102815043148944_219447474877889346_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294601572_5102815043148944_219447474877889346_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/294601572_5102815043148944_219447474877889346_n.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\294601572_5102815043148944_219447474877889346_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294761808_5108295212600927_6555994738533045828_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\294761808_5108295212600927_6555994738533045828_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/294761808_5108295212600927_6555994738533045828_n.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\294761808_5108295212600927_6555994738533045828_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\295260844_5113894865374295_5620551336581414965_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\295260844_5113894865374295_5620551336581414965_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/295260844_5113894865374295_5620551336581414965_n.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\295260844_5113894865374295_5620551336581414965_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\298771390_5166025560161225_1877504065143415104_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\298771390_5166025560161225_1877504065143415104_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/298771390_5166025560161225_1877504065143415104_n.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\298771390_5166025560161225_1877504065143415104_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\305656107_5242933025803811_4961542119433585379_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\305656107_5242933025803811_4961542119433585379_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/305656107_5242933025803811_4961542119433585379_n.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\305656107_5242933025803811_4961542119433585379_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\310989988_5321665821263864_3135910519383905346_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\310989988_5321665821263864_3135910519383905346_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/310989988_5321665821263864_3135910519383905346_n.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\310989988_5321665821263864_3135910519383905346_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\311050559_5321665794597200_869185298857409346_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\311050559_5321665794597200_869185298857409346_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/311050559_5321665794597200_869185298857409346_n.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\311050559_5321665794597200_869185298857409346_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\311895805_5345957608834685_6329559627004134638_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\311895805_5345957608834685_6329559627004134638_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/311895805_5345957608834685_6329559627004134638_n.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\311895805_5345957608834685_6329559627004134638_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316171402_5442848645812247_85552959241252189_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316171402_5442848645812247_85552959241252189_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/316171402_5442848645812247_85552959241252189_n.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\316171402_5442848645812247_85552959241252189_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316665362_5456274037803041_3802975772442572908_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316665362_5456274037803041_3802975772442572908_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/316665362_5456274037803041_3802975772442572908_n.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\316665362_5456274037803041_3802975772442572908_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316807311_5462029880560790_4791643740754138515_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316807311_5462029880560790_4791643740754138515_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/316807311_5462029880560790_4791643740754138515_n.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\316807311_5462029880560790_4791643740754138515_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316956287_5467394030024375_1962564847644552_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\316956287_5467394030024375_1962564847644552_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/316956287_5467394030024375_1962564847644552_n.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\316956287_5467394030024375_1962564847644552_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317257513_5464710390292739_1755685574114429791_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317257513_5464710390292739_1755685574114429791_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/317257513_5464710390292739_1755685574114429791_n.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\317257513_5464710390292739_1755685574114429791_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317334947_5467310343366077_3319677458422258625_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317334947_5467310343366077_3319677458422258625_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/317334947_5467310343366077_3319677458422258625_n.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\317334947_5467310343366077_3319677458422258625_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317348698_5472791252817986_7714708165731259055_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317348698_5472791252817986_7714708165731259055_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/317348698_5472791252817986_7714708165731259055_n.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\317348698_5472791252817986_7714708165731259055_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317601341_5475468179216960_4825647118493535691_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317601341_5475468179216960_4825647118493535691_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/317601341_5475468179216960_4825647118493535691_n.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\317601341_5475468179216960_4825647118493535691_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317793174_5481154188648359_6179487169942729186_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\317793174_5481154188648359_6179487169942729186_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/317793174_5481154188648359_6179487169942729186_n.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\317793174_5481154188648359_6179487169942729186_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\322247041_1382599449236084_2374816129462583493_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\322247041_1382599449236084_2374816129462583493_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/322247041_1382599449236084_2374816129462583493_n.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\322247041_1382599449236084_2374816129462583493_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\330444416_937372473953852_6107401394761210302_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\330444416_937372473953852_6107401394761210302_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/330444416_937372473953852_6107401394761210302_n.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\330444416_937372473953852_6107401394761210302_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\333988535_207770445163963_2894452983993695887_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\333988535_207770445163963_2894452983993695887_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/333988535_207770445163963_2894452983993695887_n.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\333988535_207770445163963_2894452983993695887_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\335412785_1286633102062160_7888851438601229480_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\335412785_1286633102062160_7888851438601229480_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/335412785_1286633102062160_7888851438601229480_n.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\335412785_1286633102062160_7888851438601229480_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\336370562_1714262528988372_1993146400527411641_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\336370562_1714262528988372_1993146400527411641_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/336370562_1714262528988372_1993146400527411641_n.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\336370562_1714262528988372_1993146400527411641_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\339668637_711929694067881_1122733281385560918_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\339668637_711929694067881_1122733281385560918_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/339668637_711929694067881_1122733281385560918_n.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\339668637_711929694067881_1122733281385560918_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\341693474_1248831676063348_8919085767094447226_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\341693474_1248831676063348_8919085767094447226_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/341693474_1248831676063348_8919085767094447226_n.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\341693474_1248831676063348_8919085767094447226_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\341764029_602801691870794_6182031527670528015_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\341764029_602801691870794_6182031527670528015_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/341764029_602801691870794_6182031527670528015_n.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\341764029_602801691870794_6182031527670528015_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\342715545_258965559969917_1014741937885395073_n.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\342715545_258965559969917_1014741937885395073_n.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/342715545_258965559969917_1014741937885395073_n.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\342715545_258965559969917_1014741937885395073_n.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay1.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay1.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay1.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay1.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay10.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay10.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay10.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay10.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay11.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay11.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay11.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay11.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay12.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay12.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay12.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay12.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay2.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay2.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay2.jpg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay2.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay3.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay3.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay3.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay3.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay4.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay4.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay4.jpg",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay4.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay5.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay5.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay5.jpg",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay5.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay6.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay6.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay6.jpg",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay6.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay7.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay7.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay7.jpg",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay7.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay8.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay8.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay8.jpg",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay8.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay9.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\giay9.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/giay9.jpg",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\giay9.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean1.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean1.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean1.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean1.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean10.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean10.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean10.jpg",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean10.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean11.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean11.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean11.jpg",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean11.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean12.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean12.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean12.jpg",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean12.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean2.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean2.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean2.jpg",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean2.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean3.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean3.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean3.jpg",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean3.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean4.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean4.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean4.jpg",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean4.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean5.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean5.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean5.jpg",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean5.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean6.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean6.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean6.jpg",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean6.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean7.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean7.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean7.jpg",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean7.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean8.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean8.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean8.jpg",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean8.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean9.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\jean9.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/jean9.jpg",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\jean9.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo1.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo1.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo1.jpg",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo1.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo10.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo10.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo10.jpg",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo10.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo11.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo11.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo11.jpg",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo11.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo12.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo12.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo12.jpg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo12.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo2.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo2.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo2.jpg",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo2.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo3.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo3.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo3.jpg",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo3.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo4.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo4.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo4.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo4.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo5.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo5.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo5.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo5.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo6.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo6.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo6.jpg",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo6.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo7.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo7.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo7.jpg",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo7.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo8.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo8.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo8.jpg",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo8.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo9.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\polo9.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/polo9.jpg",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\polo9.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short1.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short1.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short1.jpg",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short1.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short10.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short10.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short10.jpg",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short10.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short11.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short11.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short11.jpg",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short11.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short12.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short12.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short12.jpg",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short12.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short2.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short2.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short2.jpg",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short2.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short3.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short3.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short3.jpg",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short3.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short4.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short4.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short4.jpg",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short4.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short5.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short5.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short5.jpg",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short5.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short6.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short6.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short6.jpg",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short6.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short7.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short7.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short7.jpg",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short7.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short8.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short8.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short8.jpg",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short8.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short9.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\short9.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/short9.jpg",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\short9.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi1.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi1.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi1.jpg",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi1.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi10.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi10.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi10.jpg",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi10.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi11.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi11.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi11.jpg",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi11.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi12.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi12.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi12.jpg",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi12.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi2.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi2.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi2.jpg",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi2.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi3.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi3.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi3.jpg",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi3.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi4.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi4.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi4.jpg",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi4.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi5.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi5.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi5.jpg",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi5.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi6.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi6.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi6.jpg",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi6.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi7.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi7.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi7.jpg",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi7.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi8.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi8.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi8.jpg",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi8.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi9.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\somi9.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/somi9.jpg",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\somi9.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay1.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay1.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay1.jpg",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay1.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay10.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay10.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay10.jpg",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay10.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay11.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay11.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay11.jpg",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay11.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay12.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay12.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay12.jpg",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay12.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay2.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay2.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay2.jpg",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay2.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay3.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay3.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay3.jpg",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay3.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay4.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay4.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay4.jpg",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay4.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay5.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay5.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay5.jpg",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay5.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay6.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay6.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay6.jpg",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay6.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay7.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay7.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay7.jpg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay7.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay8.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay8.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay8.jpg",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay8.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay9.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\tay9.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/tay9.jpg",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\tay9.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun1.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun1.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun1.jpg",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun1.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun10.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun10.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun10.jpg",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun10.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun11.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun11.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun11.jpg",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun11.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun12.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun12.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun12.jpg",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun12.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun2.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun2.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun2.jpg",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun2.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun3.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun3.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun3.jpg",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun3.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun4.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun4.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun4.jpg",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun4.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun5.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun5.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun5.jpg",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun5.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun6.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun6.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun6.jpg",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun6.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun7.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun7.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun7.jpg",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun7.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun8.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun8.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun8.jpg",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun8.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun9.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\imgSanPham\\thun9.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/imgSanPham/thun9.jpg",
       "AssetKind": "All",
@@ -3485,10 +3485,27 @@
       "OriginalItemSpec": "wwwroot\\img\\imgSanPham\\thun9.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\loi-khuyen-thoi-trang-a.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\logo.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "BasePath": "_content/Clothes_2.Web",
+      "RelativePath": "img/logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.jpg"
+    },
+    {
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\loi-khuyen-thoi-trang-a.jpg",
+      "SourceId": "Clothes_2.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/loi-khuyen-thoi-trang-a.jpg",
       "AssetKind": "All",
@@ -3502,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\img\\loi-khuyen-thoi-trang-a.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\Ru0eoTh28f37I6rYs4gCIQnOVRCkrBls6G9UwuOo.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\Ru0eoTh28f37I6rYs4gCIQnOVRCkrBls6G9UwuOo.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/Ru0eoTh28f37I6rYs4gCIQnOVRCkrBls6G9UwuOo.jpg",
       "AssetKind": "All",
@@ -3519,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Ru0eoTh28f37I6rYs4gCIQnOVRCkrBls6G9UwuOo.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\schic-01-scaled.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\schic-01-scaled.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/schic-01-scaled.jpg",
       "AssetKind": "All",
@@ -3536,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\img\\schic-01-scaled.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\slider1.jpg",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\slider1.jpg",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/slider1.jpg",
       "AssetKind": "All",
@@ -3553,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slider1.jpg"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\test.png",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\img\\test.png",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "img/test.png",
       "AssetKind": "All",
@@ -3570,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\test.png"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\chitietSP.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\chitietSP.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "js/chitietSP.js",
       "AssetKind": "All",
@@ -3587,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chitietSP.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\site.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\site.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -3604,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\user.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\js\\user.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "js/user.js",
       "AssetKind": "All",
@@ -3621,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\js\\user.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -3638,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3655,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3672,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3689,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -3706,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -3723,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -3740,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -3757,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -3774,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -3791,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -3808,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -3825,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -3842,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -3859,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -3876,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -3893,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -3910,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -3927,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -3944,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -3961,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -3978,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -3995,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -4012,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -4029,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -4046,10 +4063,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -4063,10 +4080,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -4080,10 +4097,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -4097,10 +4114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -4114,10 +4131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -4131,10 +4148,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -4148,10 +4165,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -4165,10 +4182,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -4182,10 +4199,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -4199,10 +4216,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -4216,10 +4233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -4233,10 +4250,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -4250,10 +4267,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -4267,10 +4284,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -4284,10 +4301,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -4301,10 +4318,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -4318,10 +4335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -4335,10 +4352,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -4352,10 +4369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -4369,10 +4386,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -4386,10 +4403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -4403,10 +4420,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -4420,10 +4437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -4437,10 +4454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -4454,10 +4471,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -4471,10 +4488,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -4488,10 +4505,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -4505,10 +4522,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -4522,10 +4539,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -4539,10 +4556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -4556,10 +4573,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -4573,10 +4590,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Clothes_2.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\Clothes_2.Web\\Clothes_2.Web\\wwwroot\\",
       "BasePath": "_content/Clothes_2.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -67,7 +67,7 @@ namespace Clothes_2.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,TenSanPham,image,Gia,ThuongHieu,XuatSu,ChatLieu,LoaiSanPhamId")] SanPham sanPham)
+        public async Task<IActionResult> Create([Bind("Id,TenSanPham,image,Gia,ThuongHieu,XuatSu,ChatLieu,LoaiSanPhamId,SoHangConLai")] SanPham sanPham)
         {
             if (ModelState.IsValid)
             {

@@ -44,6 +44,11 @@
                 <span asp-validation-for="ChatLieu" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="SoHangConLai" class="control-label"></label>
+                <input asp-for="SoHangConLai" class="form-control" />
+                <span asp-validation-for="SoHangConLai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <label asp-for="LoaiSanPhamId" class="control-label"></label>
                 <select asp-for="LoaiSanPhamId" class ="form-control" asp-items="ViewBag.LoaiSanPhamId"></select>
             </div>

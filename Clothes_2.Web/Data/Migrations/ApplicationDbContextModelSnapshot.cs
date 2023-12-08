@@ -108,6 +108,9 @@ namespace Clothes_2.Web.Data.Migrations
                     b.Property<Guid?>("LoaiSanPhamId")
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<int>("SoHangConLai")
+                        .HasColumnType("int");
+
                     b.Property<int>("SoLuotMua")
                         .HasColumnType("int");
 
