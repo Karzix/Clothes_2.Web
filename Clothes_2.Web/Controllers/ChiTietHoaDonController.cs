@@ -100,13 +100,15 @@ namespace Clothes_2.Web.Controllers
 			{
 				danhSachIdGioHang += " /ID: ";
 				thanhtien += item.SoLuong * item.SanPham.Gia;
-				danhSachIdGioHang += item.SanPhamId + " SoLuong: " + item.SoLuong + " Size: " + item.size;
+				danhSachIdGioHang += item.SanPhamId + "\n SoLuong: " + item.SoLuong + "\n Size: " + item.size;
 			}
 			foreach (var item in listsp)
 			{
 				var updateSLM = await _context.SanPham.Where(sp => sp.Id == item.SanPhamId).FirstOrDefaultAsync();
 				updateSLM.SoLuotMua += item.SoLuong;
-				_context.Update(updateSLM);
+                updateSLM.SoHangConLai -= item.SoLuong;
+                _context.Update(updateSLM);
+				
 				await _context.SaveChangesAsync();
 			}
 			ChiTietHoaDon chiTietHoaDon = new ChiTietHoaDon
